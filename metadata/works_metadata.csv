@@ -1,0 +1,65 @@
+dataset_file;composer;work_number;work_title;movement_number;movement_title
+difficulty_dataset/1_Bach_Menuet_bwvAnh_132.xml;Bach, Johann Sebastian;BWV Anh. 113–132;Notenbüchlein für Anna Magdalena Bach;36;Minuet in D Minor, BWV Anh. 132
+difficulty_dataset/2_Bach_Prelude_bwv_926.xml;Bach, Johann Sebastian;BWV 924–932;Kleine Präludien;3;Praeludium in D Minor, BWV 926
+difficulty_dataset/3_Bach_LittlePrelude_bwv_936.xml;Bach, Johann Sebastian;BWV 933–938;Sechs kleine Präludien;4;Praeludium in D Major, BWV 936
+difficulty_dataset/4_Bach_Prelude_bwv_939.xml;Bach, Johann Sebastian;BWV 939–943;Fünf kleine Präludien (Kellner-Sammlung);1;Praeludium in C Major, BWV 939
+difficulty_dataset/5_Bach_Invention_nr_1_bwv_772.xml;Bach, Johann Sebastian;BWV 772–786;Zweistimmige Inventionen;1;Inventio No. 1 in C Major, BWV 772
+difficulty_dataset/6_Bach_Invention_nr_14_bwv_785.xml;Bach, Johann Sebastian;BWV 772–786;Zweistimmige Inventionen;14;Inventio No. 14 in B-flat Major, BWV 785
+difficulty_dataset/7_Bach_Sinfonia_nr_15_bwv_801.xml;Bach, Johann Sebastian;BWV 787–801;Dreistimmige Sinfonien;15;Sinfonia No. 15 in B Minor, BWV 801
+difficulty_dataset/8_Bach_Prelude_wtc_vol_I_nr_5_bwv_850.xml;Bach, Johann Sebastian;BWV 850;Das Wohltemperierte Klavier, I;1;Praeludium No. 5 in D Major, BWV 850
+difficulty_dataset/9_Bach_Prelude_wtc_vol_I_nr_15_bwv_860.xml;Bach, Johann Sebastian;BWV 846–869;Das Wohltemperierte Klavier, I;1;Praeludium No. 15 in G Major, BWV 860
+difficulty_dataset/10_Haydn_PianoSonata_hob_xvi.xml;Haydn, Joseph;Hob. XVI:34;Piano Sonata No. 53 in E Minor;;
+difficulty_dataset/11_Mozart_Andante_kv_1a.xml;Mozart, Wolfgang Amadeus;K. 1–15;Nannerl Notenbuch;1;Andante in C Major, K. 1a
+difficulty_dataset/12_Mozart_Trio_kv_1_1e.xml;Mozart, Wolfgang Amadeus;K. 1–15;Nannerl Notenbuch;6;Menuett in C Major, K. 1f
+difficulty_dataset/13_Clementi_Sonatina_op_36_nr_1_1st_movt.xml;Clementi, Muzio;Op. 36, No. 1;Sonatina in C Major;1;Allegro
+difficulty_dataset/14_Clementi_Sonatina_op_36_nr_1_3rd_movt.xml;Clementi, Muzio;Op. 36, No. 1;Sonatina in C Major;3;Vivace
+difficulty_dataset/15_Beethoven_PianoSonata_op_2_nr_1_1st_movt.xml;Beethoven, Ludwig van;Op. 2, No. 1;Piano Sonata No. 1 in F Minor;1;Allegro
+difficulty_dataset/16_Beethoven_PianoSonata_op_2_nr_1_4th_movt.xml;Beethoven, Ludwig van;Op. 2, No. 1;Piano Sonata No. 1 in F Minor;4;Prestissimo
+difficulty_dataset/17_Beethoven_PianoSonata_op_2_nr_2_3rd_movt.xml;Beethoven, Ludwig van;Op. 2, No. 2;Piano Sonata No. 2 in A Major;3;Scherzo: Allegretto
+difficulty_dataset/18_Beethoven_PianoSonata_op_2_nr_3_1st_movt.xml;Beethoven, Ludwig van;Op. 2, No. 3;Piano Sonata No. 3 in C Major;1;Allegro con brio
+difficulty_dataset/19_Beethoven_PianoSonata_op_10_nr_1_3rd_movt.xml;Beethoven, Ludwig van;Op. 10, No. 1;Piano Sonata No. 5 in C Minor;3;Prestissimo
+difficulty_dataset/20_Beethoven_FurElise_wwo_59.xml;Beethoven, Ludwig van;WoO 59;"Bagatelle in A Minor, ""Für Elise""";1;Poco moto, WoO 59
+difficulty_dataset/21_Beethoven_PianoSonata_op_13_1st_movt.xml;Beethoven, Ludwig van;Op. 13;"Piano Sonata No. 8 in C Minor ""Pathétique""";1;Grave – Allegro molto e con brio
+difficulty_dataset/22_Beethoven_PianoSonata_op_27_nr_1_QuasiUnaFantasia_1st_movt.xml;Beethoven, Ludwig van;Op. 27, No. 1;"Piano Sonata No. 13 in E-flat Major ""Quasi una Fantasia""";1;Andante
+difficulty_dataset/23_Beethoven_PianoSonata_op_28_Pastoral_2nd_movt.xml;Beethoven, Ludwig van;Op. 28;"Piano Sonata No. 15 in D Major ""Pastoral""";2;Andante
+difficulty_dataset/24_Beethoven_PianoSonata_op_28_Pastoral_3rd_movt.xml;Beethoven, Ludwig van;Op. 28;"Piano Sonata No. 15 in D Major ""Pastoral""";3;Scherzo: Allegro vivace
+difficulty_dataset/25_Beethoven_PianoSonata_op_28_Pastoral_4th_movt.xml;Beethoven, Ludwig van;Op. 28;"Piano Sonata No. 15 in D Major ""Pastoral""";4;Rondo: Allegro ma non troppo
+difficulty_dataset/26_Beethoven_PianoSonata_op_53_Waldstein_1st_movt.xml;Beethoven, Ludwig van;Op. 53;"Piano Sonata No. 21 in C Major ""Waldstein""";1;Allegro con brio
+difficulty_dataset/27_Beethoven_PianoSonata_op_57_Appassionata_2nd_movt.xml;Beethoven, Ludwig van;Op. 57;"Piano Sonata No. 23 in F Minor ""Appassionata""";2;Andante con moto
+difficulty_dataset/28_Beethoven_PianoSonata_op_57_Appassionata_3rd_movt.xml;Beethoven, Ludwig van;Op. 57;"Piano Sonata No. 23 in F Minor ""Appassionata""";3;Allegro ma non troppo – Presto
+difficulty_dataset/29_Beethoven_PianoSonata_op_81a_LesAdieux_1st_movt.xml;Beethoven, Ludwig van;Op. 81a;"Piano Sonata No. 26 in E-flat Major ""Les Adieux""";1;Das Lebewohl: Adagio – Allegro
+difficulty_dataset/30_Beethoven_PianoSonata_op_81a_LesAdieux_3rd_movt.xml;Beethoven, Ludwig van;Op. 81a;"Piano Sonata No. 26 in E-flat Major ""Les Adieux""";3;Das Wiedersehen: Vivacissimamente
+difficulty_dataset/31_Beethoven_PianoSonata_op_90_1st_movt.xml;Beethoven, Ludwig van;Op. 90;Piano Sonata No. 27 in E Minor;1;Mit Lebhaftigkeit und durchaus mit Empfindung und Ausdruck
+difficulty_dataset/32_Beethoven_PianoSonata_op_110_2nd_movt.xml;Beethoven, Ludwig van;Op. 110;Piano Sonata No. 31 in A-flat Major;2;Allegro molto
+difficulty_dataset/33_Beethoven_PianoSonata_op_110_3rd_movt.xml;Beethoven, Ludwig van;Op. 110;Piano Sonata No. 31 in A-flat Major;3;Adagio ma non troppo – Allegro ma non troppo
+difficulty_dataset/34_Schubert_Minuet_d_600.xml;Schubert, Franz;D 600;Minuett in C-sharp Minor;1;Menuetto in C-sharp Minor, D 600
+difficulty_dataset/35_Schubert_Walzer_op_9_nr_1.xml;Schubert, Franz;Op. 9, D 365;Original-Tänze;1;Walzer in A-flat Major, D 365/1
+difficulty_dataset/36_Schubert_MomentsMusicaux_d_780_op94_nr_5.xml;Schubert, Franz;Op. 94, D 780;Six moments musicaux;5;Moment musical in F Minor, D 780/5
+difficulty_dataset/37_Mendelssohn_LiederOhneWorte_op_30_nr_3.xml;Mendelssohn, Felix;Op. 30;Lieder ohne Worte;3;Lied ohne Worte in E Major, Op. 30, No. 3
+difficulty_dataset/38_Mendelssohn_ScherzoACapriccio_wwo_3.xml;Mendelssohn, Felix;WoO 3;Scherzo à Capriccio in F♯ Minor;;
+difficulty_dataset/39_Schumann_AlbumFurDieJugend_op_68_nr_7_Jagerliedchen.xml;Schumann, Robert;Op. 68;Album für die Jugend;7;Jägerliedchen, No. 7
+difficulty_dataset/40_Schumann_AlbumFurDieJugend_op_68_nr_10_FrohlicherLandmann.xml;Schumann, Robert;Op. 68;Album für die Jugend;10;Fröhlicher Landmann, von der Arbeit zurückkehrend, No. 10
+difficulty_dataset/41_Schumann_Carnaval_op_9_nr_4_ValseNoble.xml;Schumann, Robert;Op. 9;Carnaval: Scènes mignonnes sur quatre notes;4;Valse noble, No. 4
+difficulty_dataset/42_Schumann_Carnaval_op_9_nr_18_Aveu.xml;Schumann, Robert;Op. 9;Carnaval: Scènes mignonnes sur quatre notes;18;Aveu, No. 18
+difficulty_dataset/43_Schumann_Carnaval_op_9_nr_20_Pause.xml;Schumann, Robert;Op. 9;Carnaval: Scènes mignonnes sur quatre notes;21;Pause, No. 21
+difficulty_dataset/44_Chopin_Etude_op_10_nr_2.xml;Chopin, Fryderyk;Op. 10, No. 2;Douze Études;2;Étude in A Minor, Op. 10/2
+difficulty_dataset/45_Chopin_Etude_op_10_nr_3.xml;Chopin, Fryderyk;Op. 10, No. 3;Douze Études;3;Étude in E Major, Op. 10/3
+difficulty_dataset/46_Chopin_Etude_op_10_nr_5.xml;Chopin, Fryderyk;Op. 10, No. 5;"Etude in G-flat Major ""Black Keys""";5;Vivace
+difficulty_dataset/47_Chopin_Etude_op_10_nr_9.xml;Chopin, Fryderyk;Op. 10, No. 9;Douze Études;9;Étude in F Minor, Op. 10/9
+difficulty_dataset/48_Chopin_Prelude_op_28_nr_4.xml;Chopin, Fryderyk;Op. 28;Vingt-quatre Préludes;4;Prélude No. 4 in E Minor, Op. 28/4
+difficulty_dataset/49_Chopin_Prelude_op_28_nr_22.xml;Chopin, Fryderyk;Op. 28, No. 22;Prelude in G Minor;22;Molto agitato
+difficulty_dataset/50_Chopin_Vals_Eminor_op_posth.xml;Chopin, Fryderyk;Op. posth.;Waltzes;14;Waltz in E Minor, Op. posth. (B. 56)
+difficulty_dataset/51_Chopin_Ballade_nr_3_op_47.xml;Chopin, Fryderyk;Op. 47;Ballade No. 3 in A-flat Major;;
+difficulty_dataset/52_Liszt_Consolation_s_172_nr_2.xml;Liszt, Franz;S. 172;Consolations;2;Consolation No. 2 in E Major, S. 172/2
+difficulty_dataset/53_Liszt_Konzertetude_s_145_nr_2_GnomenReigen.xml;Liszt, Franz;S. 145;Zwei Konzertetüden;2;Gnomenreigen in F♯ Minor, S. 145/2
+difficulty_dataset/54_Liszt_HungarianRhapsody_nr_6_3rd_fragment.xml;Liszt, Franz;S. 244/6;Rhapsodie hongroise No. 6;1;Hungarian Rhapsody No. 6 in D-flat Major, S. 244/6: III. Andante
+difficulty_dataset/55_Liszt_HungarianRhapsody_nr_6_4th_fragment.xml;Liszt, Franz;S. 244;Hungarian Rhapsodies;6;Hungarian Rhapsody No. 6 in D-flat Major, S. 244/6: IV. Finale (Presto)
+difficulty_dataset/56_Albeniz_Iberia_2nd_book_nr_1_Rondeña.xml;Albéniz, Isaac;T. 109;Iberia, Cuaderno 2;1;Rondeña, No. 4
+difficulty_dataset/57_Satie_Gymnopedie_nr1.xml;Satie, Erik;1888;Trois gymnopédies;1;1ère gymnopédie: Lent et douloureux
+difficulty_dataset/58_Debussy_Reverie.xml;Debussy, Claude;L. 68;Rêverie;1;Rêverie, L. 68
+difficulty_dataset/59_Debussy_Estampes_nr_1_Pagodes.xml;Debussy, Claude;L. 100;Estampes;1;Pagodes in B Major, L. 100/1
+difficulty_dataset/60_Debussy_Images_1ere_serie_nr_2_HommageARameau.xml;Debussy, Claude;L. 110;Images, Book I;2;Hommage à Rameau in G-sharp Minor, L. 110/2
+difficulty_dataset/61_Debussy_Images_1ere_serie_nr_3_Mouvement.xml;Debussy, Claude;L. 110;Images, Book I;3;Mouvement in C Major, L. 110/3
+difficulty_dataset/62_Debussy_Prelude_livre_I_nr_10_LaCathedraleEngloutie.xml;Debussy, Claude;L. 125 (117);Préludes, Book 1;10;... La cathédrale engloutie
+difficulty_dataset/63_Bartok_ForChildren_sz_42_Vol_I_nr_29_PentatonicTune.xml;Bartók, Béla;Sz. 42, BB 53;For Children, Vol. 1;29;Pentatonic Tune (Ötfokú dallam), No. 29
+difficulty_dataset/64_Bartok_ForChildren_sz_42_Vol_I_nr_4_PillowDance.xml;Bartók, Béla;Sz. 42, BB 53;For Children, Vol. 2;4;Pillow Dance (Vankúšový tanec), No. 4

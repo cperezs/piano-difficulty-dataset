@@ -1,0 +1,1667 @@
+--- /data/CIPI/repo/CIPI/xmander_files/5875014.musicxml
++++ /data/CIPI/repo/difficulty_dataset/64_Bartok_ForChildren_sz_42_Vol_I_nr_4_PillowDance.xml
+@@ -5,2 +5,5 @@
++    <work-number>Sz. 42, BB 53</work-number>
++    <work-title>For Children, Vol. 2</work-title>
++  </work>
++  <movement-number>4</movement-number>
++  <movement-title>Pillow Dance (Vankúšový tanec), No. 4</movement-title>
+@@ -7,0 +11,9 @@
++    <creator type="composer">Bartók, Béla</creator>
++    <creator type="transcriber">pental (http://musescore.com/user/4887176/scores/5875014)</creator>
++    <creator type="converter">Ramoneda et al. (https://doi.org/10.1016/j.eswa.2023.121776)</creator>
++    <creator type="editor">María Hontanilla</creator>
++    <rights>
++      Original digital score: pental, CC0 1.0
++      MusicXML conversion: Ramoneda et al. (2024), use restricted to non-profit academic research.
++      Revisions and annotations: María Hontanilla (2025), CC BY 4.0.
++    </rights>
+@@ -10 +22 @@
++      <encoding-date>2024-08-29</encoding-date>
+@@ -17 +29 @@
++    <source>https://doi.org/10.5281/zenodo.8037327</source>
+@@ -43,0 +56,3 @@
++    <credit-words default-x="1194.03" default-y="1554.6" justify="right" valign="bottom" font-size="12">Béla Bartók</credit-words>
++    </credit>
++  <credit page="1">
+@@ -44,0 +60,3 @@
++    </credit>
++  <credit page="1">
++    <credit-words default-x="626.866" default-y="1653.73" justify="center" valign="top" font-size="14">Book 2 (after Hungarian Folksongs)</credit-words>
+@@ -49,6 +66,0 @@
+@@ -73 +85 @@
++    <measure number="1" width="176.57">
+@@ -77 +89 @@
++            <left-margin>20.80</left-margin>
+@@ -80 +92 @@
++          <top-system-distance>228.83</top-system-distance>
+@@ -83 +95 @@
++          <staff-distance>71.26</staff-distance>
+@@ -107 +119 @@
++          <words default-x="-35.96" relative-y="20.00" font-weight="bold" font-size="12">Allegro</words>
+@@ -130 +142 @@
++      <note default-x="82.47" default-y="-116.26">
+@@ -145,13 +157,13 @@
++      <note default-x="105.58" default-y="-136.26">
++        <pitch>
++          <step>C</step>
++          <octave>3</octave>
++          </pitch>
++        <duration>1</duration>
++        <voice>5</voice>
++        <type>eighth</type>
++        <stem>down</stem>
++        <staff>2</staff>
++        <beam number="1">continue</beam>
++        </note>
++      <note default-x="128.69" default-y="-111.26">
+@@ -169,14 +181,14 @@
++      <note default-x="151.81" default-y="-116.26">
++        <pitch>
++          <step>G</step>
++          <octave>3</octave>
++          </pitch>
++        <duration>1</duration>
++        <voice>5</voice>
++        <type>eighth</type>
++        <stem>down</stem>
++        <staff>2</staff>
++        <beam number="1">end</beam>
++        </note>
++      </measure>
++    <measure number="2" width="104.11">
+@@ -192 +204 @@
++      <note default-x="10.00" default-y="-111.26">
+@@ -204,13 +216,13 @@
++      <note default-x="33.11" default-y="-116.26">
++        <pitch>
++          <step>G</step>
++          <octave>3</octave>
++          </pitch>
++        <duration>1</duration>
++        <voice>5</voice>
++        <type>eighth</type>
++        <stem>down</stem>
++        <staff>2</staff>
++        <beam number="1">continue</beam>
++        </note>
++      <note default-x="56.23" default-y="-111.26">
+@@ -228,14 +240,14 @@
++      <note default-x="79.34" default-y="-116.26">
++        <pitch>
++          <step>G</step>
++          <octave>3</octave>
++          </pitch>
++        <duration>1</duration>
++        <voice>5</voice>
++        <type>eighth</type>
++        <stem>down</stem>
++        <staff>2</staff>
++        <beam number="1">end</beam>
++        </note>
++      </measure>
++    <measure number="3" width="104.11">
+@@ -251 +263 @@
++      <note default-x="10.00" default-y="-111.26">
+@@ -263,13 +275,13 @@
++      <note default-x="33.11" default-y="-116.26">
++        <pitch>
++          <step>G</step>
++          <octave>3</octave>
++          </pitch>
++        <duration>1</duration>
++        <voice>5</voice>
++        <type>eighth</type>
++        <stem>down</stem>
++        <staff>2</staff>
++        <beam number="1">continue</beam>
++        </note>
++      <note default-x="56.23" default-y="-111.26">
+@@ -287,14 +299,14 @@
++      <note default-x="79.34" default-y="-116.26">
++        <pitch>
++          <step>G</step>
++          <octave>3</octave>
++          </pitch>
++        <duration>1</duration>
++        <voice>5</voice>
++        <type>eighth</type>
++        <stem>down</stem>
++        <staff>2</staff>
++        <beam number="1">end</beam>
++        </note>
++      </measure>
++    <measure number="4" width="104.11">
+@@ -310 +322 @@
++      <note default-x="10.00" default-y="-111.26">
+@@ -322,13 +334,13 @@
++      <note default-x="33.11" default-y="-116.26">
++        <pitch>
++          <step>G</step>
++          <octave>3</octave>
++          </pitch>
++        <duration>1</duration>
++        <voice>5</voice>
++        <type>eighth</type>
++        <stem>down</stem>
++        <staff>2</staff>
++        <beam number="1">continue</beam>
++        </note>
++      <note default-x="56.23" default-y="-111.26">
+@@ -346,14 +358,14 @@
++      <note default-x="79.34" default-y="-116.26">
++        <pitch>
++          <step>G</step>
++          <octave>3</octave>
++          </pitch>
++        <duration>1</duration>
++        <voice>5</voice>
++        <type>eighth</type>
++        <stem>down</stem>
++        <staff>2</staff>
++        <beam number="1">end</beam>
++        </note>
++      </measure>
++    <measure number="5" width="104.11">
+@@ -384 +396 @@
++      <note default-x="33.11" default-y="-40.00">
+@@ -396 +408 @@
++      <note default-x="56.23" default-y="-35.00">
+@@ -408 +420 @@
++      <note default-x="79.34" default-y="-45.00">
+@@ -423 +435 @@
++      <note default-x="10.00" default-y="-111.26">
+@@ -435,13 +447,13 @@
++      <note default-x="33.11" default-y="-116.26">
++        <pitch>
++          <step>G</step>
++          <octave>3</octave>
++          </pitch>
++        <duration>1</duration>
++        <voice>5</voice>
++        <type>eighth</type>
++        <stem>down</stem>
++        <staff>2</staff>
++        <beam number="1">continue</beam>
++        </note>
++      <note default-x="56.23" default-y="-111.26">
+@@ -459 +471 @@
++      <note default-x="79.34" default-y="-116.26">
+@@ -475 +487 @@
++    <measure number="6" width="104.11">
+@@ -488 +500 @@
++      <note default-x="33.11" default-y="-45.00">
+@@ -500 +512 @@
++      <note default-x="56.23" default-y="-40.00">
+@@ -512 +524 @@
++      <note default-x="79.34" default-y="-50.00">
+@@ -537 +549 @@
++    <measure number="7" width="104.11">
+@@ -547,7 +559,8 @@
++        <notehead color="#FF0000">normal</notehead>
++        <staff>1</staff>
++        <beam number="1">begin</beam>
++        <notations>
++          <slur color="#FF0000" type="start" placement="below" number="1"/>
++          </notations>
++        </note>
++      <note default-x="33.11" default-y="-35.00">
+@@ -562,4 +575,5 @@
++        <notehead color="#FF0000">normal</notehead>
++        <staff>1</staff>
++        <beam number="1">continue</beam>
++        </note>
++      <note default-x="56.23" default-y="-40.00">
+@@ -574,4 +588,5 @@
++        <notehead color="#FF0000">normal</notehead>
++        <staff>1</staff>
++        <beam number="1">continue</beam>
++        </note>
++      <note default-x="79.34" default-y="-45.00">
+@@ -586,34 +601,37 @@
++        <notehead color="#FF0000">normal</notehead>
++        <staff>1</staff>
++        <beam number="1">end</beam>
++        </note>
++      <backup>
++        <duration>4</duration>
++        </backup>
++      <note default-x="10.00" default-y="-116.26">
++        <pitch>
++          <step>G</step>
++          <octave>3</octave>
++          </pitch>
++        <duration>1</duration>
++        <voice>5</voice>
++        <type>eighth</type>
++        <stem>down</stem>
++        <notehead color="#FF0000">normal</notehead>
++        <staff>2</staff>
++        <beam number="1">begin</beam>
++        <notations>
++          <slur color="#FF0000" type="start" placement="above" number="2"/>
++          </notations>
++        </note>
++      <note default-x="33.11" default-y="-136.26">
++        <pitch>
++          <step>C</step>
++          <octave>3</octave>
++          </pitch>
++        <duration>1</duration>
++        <voice>5</voice>
++        <type>eighth</type>
++        <stem>down</stem>
++        <notehead color="#FF0000">normal</notehead>
++        <staff>2</staff>
++        <beam number="1">continue</beam>
++        </note>
++      <note default-x="56.23" default-y="-121.26">
+@@ -628,17 +646,19 @@
++        <notehead color="#FF0000">normal</notehead>
++        <staff>2</staff>
++        <beam number="1">continue</beam>
++        </note>
++      <note default-x="79.34" default-y="-136.26">
++        <pitch>
++          <step>C</step>
++          <octave>3</octave>
++          </pitch>
++        <duration>1</duration>
++        <voice>5</voice>
++        <type>eighth</type>
++        <stem>down</stem>
++        <notehead color="#FF0000">normal</notehead>
++        <staff>2</staff>
++        <beam number="1">end</beam>
++        </note>
++      </measure>
++    <measure number="8" width="104.11">
+@@ -653,0 +674 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -662 +683 @@
++      <note default-x="56.23" default-y="-30.00">
+@@ -670,0 +692 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -681 +703 @@
++      <note default-x="10.00" default-y="-126.26">
+@@ -690,16 +712,18 @@
++        <notehead color="#FF0000">normal</notehead>
++        <staff>2</staff>
++        <beam number="1">begin</beam>
++        </note>
++      <note default-x="33.11" default-y="-136.26">
++        <pitch>
++          <step>C</step>
++          <octave>3</octave>
++          </pitch>
++        <duration>1</duration>
++        <voice>5</voice>
++        <type>eighth</type>
++        <stem>down</stem>
++        <notehead color="#FF0000">normal</notehead>
++        <staff>2</staff>
++        <beam number="1">continue</beam>
++        </note>
++      <note default-x="56.23" default-y="-131.26">
+@@ -714,17 +738,19 @@
++        <notehead color="#FF0000">normal</notehead>
++        <staff>2</staff>
++        <beam number="1">continue</beam>
++        </note>
++      <note default-x="79.34" default-y="-136.26">
++        <pitch>
++          <step>C</step>
++          <octave>3</octave>
++          </pitch>
++        <duration>1</duration>
++        <voice>5</voice>
++        <type>eighth</type>
++        <stem>down</stem>
++        <notehead color="#FF0000">normal</notehead>
++        <staff>2</staff>
++        <beam number="1">end</beam>
++        </note>
++      </measure>
++    <measure number="9" width="104.11">
+@@ -740,7 +766,8 @@
++        <notehead color="#FF0000">normal</notehead>
++        <staff>1</staff>
++        <beam number="1">begin</beam>
++        <notations>
++          <slur color="#FF0000" type="start" placement="below" number="1"/>
++          </notations>
++        </note>
++      <note default-x="33.11" default-y="-40.00">
+@@ -755,4 +782,5 @@
++        <notehead color="#FF0000">normal</notehead>
++        <staff>1</staff>
++        <beam number="1">continue</beam>
++        </note>
++      <note default-x="56.23" default-y="-35.00">
+@@ -767,4 +795,5 @@
++        <notehead color="#FF0000">normal</notehead>
++        <staff>1</staff>
++        <beam number="1">continue</beam>
++        </note>
++      <note default-x="79.34" default-y="-45.00">
+@@ -779,7 +808,8 @@
++        <notehead color="#FF0000">normal</notehead>
++        <staff>1</staff>
++        <beam number="1">end</beam>
++        </note>
++      <backup>
++        <duration>4</duration>
++        </backup>
++      <note default-x="10.00" default-y="-126.26">
+@@ -794,16 +824,18 @@
++        <notehead color="#FF0000">normal</notehead>
++        <staff>2</staff>
++        <beam number="1">begin</beam>
++        </note>
++      <note default-x="33.11" default-y="-136.26">
++        <pitch>
++          <step>C</step>
++          <octave>3</octave>
++          </pitch>
++        <duration>1</duration>
++        <voice>5</voice>
++        <type>eighth</type>
++        <stem>down</stem>
++        <notehead color="#FF0000">normal</notehead>
++        <staff>2</staff>
++        <beam number="1">continue</beam>
++        </note>
++      <note default-x="56.23" default-y="-121.26">
+@@ -818,17 +850,19 @@
++        <notehead color="#FF0000">normal</notehead>
++        <staff>2</staff>
++        <beam number="1">continue</beam>
++        </note>
++      <note default-x="79.34" default-y="-136.26">
++        <pitch>
++          <step>C</step>
++          <octave>3</octave>
++          </pitch>
++        <duration>1</duration>
++        <voice>5</voice>
++        <type>eighth</type>
++        <stem>down</stem>
++        <notehead color="#FF0000">normal</notehead>
++        <staff>2</staff>
++        <beam number="1">end</beam>
++        </note>
++      </measure>
++    <measure number="10" width="104.11">
+@@ -844,4 +878,5 @@
++        <notehead color="#FF0000">normal</notehead>
++        <staff>1</staff>
++        <beam number="1">begin</beam>
++        </note>
++      <note default-x="33.11" default-y="-45.00">
+@@ -856,4 +891,5 @@
++        <notehead color="#FF0000">normal</notehead>
++        <staff>1</staff>
++        <beam number="1">continue</beam>
++        </note>
++      <note default-x="56.23" default-y="-40.00">
+@@ -868,12 +904,14 @@
++        <notehead color="#FF0000">normal</notehead>
++        <staff>1</staff>
++        <beam number="1">continue</beam>
++        </note>
++      <note default-x="79.34" default-y="-50.00">
++        <pitch>
++          <step>C</step>
++          <octave>4</octave>
++          </pitch>
++        <duration>1</duration>
++        <voice>1</voice>
++        <type>eighth</type>
++        <stem>up</stem>
++        <notehead color="#FF0000">normal</notehead>
+@@ -889,33 +927,36 @@
++      <note default-x="10.00" default-y="-116.26">
++        <pitch>
++          <step>G</step>
++          <octave>3</octave>
++          </pitch>
++        <duration>1</duration>
++        <voice>5</voice>
++        <type>eighth</type>
++        <stem>down</stem>
++        <notehead color="#FF0000">normal</notehead>
++        <staff>2</staff>
++        <beam number="1">begin</beam>
++        </note>
++      <note default-x="33.11" default-y="-136.26">
++        <pitch>
++          <step>C</step>
++          <octave>3</octave>
++          </pitch>
++        <duration>1</duration>
++        <voice>5</voice>
++        <type>eighth</type>
++        <stem>down</stem>
++        <notehead color="#FF0000">normal</notehead>
++        <staff>2</staff>
++        <beam number="1">continue</beam>
++        </note>
++      <note default-x="56.23" default-y="-116.26">
++        <pitch>
++          <step>G</step>
++          <octave>3</octave>
++          </pitch>
++        <duration>1</duration>
++        <voice>5</voice>
++        <type>eighth</type>
++        <stem>down</stem>
++        <notehead color="#FF0000">normal</notehead>
+@@ -928,9 +969,10 @@
++      <note default-x="79.34" default-y="-136.26">
++        <pitch>
++          <step>C</step>
++          <octave>3</octave>
++          </pitch>
++        <duration>1</duration>
++        <voice>5</voice>
++        <type>eighth</type>
++        <stem>down</stem>
++        <notehead color="#FF0000">normal</notehead>
+@@ -948 +990 @@
++          <system-distance>130.06</system-distance>
+@@ -963,4 +1005,5 @@
++        <notehead color="#FF0000">normal</notehead>
++        <staff>1</staff>
++        <beam number="1">begin</beam>
++        <notations>
++          <slur color="#FF0000" type="start" placement="below" number="1"/>
+@@ -977,0 +1021 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -989,0 +1034 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -1001,0 +1047 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -1017,4 +1063,5 @@
++        <notehead color="#FF0000">normal</notehead>
++        <staff>2</staff>
++        <beam number="1">begin</beam>
++        <notations>
++          <slur color="#FF0000" type="start" placement="above" number="2"/>
+@@ -1031,0 +1079 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -1043,0 +1092 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -1055,0 +1105 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -1069,0 +1120 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -1086,0 +1138 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -1105,0 +1158 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -1117,0 +1171 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -1129,0 +1184 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -1141,0 +1197 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -1156 +1212 @@
++      <direction placement="above">
+@@ -1158 +1214 @@
++          <words>cresc.</words>
+@@ -1161 +1217 @@
++          <dashes type="start" number="1"/>
+@@ -1213 +1269 @@
++      <direction placement="above">
+@@ -1603,4 +1659,5 @@
++        <notehead color="#FF0000">normal</notehead>
++        <staff>1</staff>
++        <beam number="1">begin</beam>
++        <notations>
++          <slur color="#FF0000" type="start" placement="above" number="1"/>
+@@ -1617,0 +1675 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -1629,0 +1688 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -1641,0 +1701 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -1666,4 +1726,5 @@
++        <notehead color="#FF0000">normal</notehead>
++        <staff>2</staff>
++        <beam number="1">begin</beam>
++        <notations>
++          <slur color="#FF0000" type="start" placement="above" number="2"/>
+@@ -1680,0 +1742 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -1692,0 +1755 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -1704,0 +1768 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -1718,0 +1783 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -1732,0 +1798 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -1751,0 +1818 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -1763,0 +1831 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -1775,0 +1844 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -1788,5 +1857,6 @@
++        <notehead color="#FF0000">normal</notehead>
++        <staff>2</staff>
++        <beam number="1">end</beam>
++        </note>
++      </measure>
++    <measure number="21" width="154.37">
+@@ -1799 +1869 @@
++          <system-distance>130.06</system-distance>
+@@ -1802 +1872 @@
++          <staff-distance>69.16</staff-distance>
+@@ -1814,7 +1884,8 @@
++        <notehead color="#FF0000">normal</notehead>
++        <staff>1</staff>
++        <beam number="1">begin</beam>
++        <notations>
++          <slur color="#FF0000" type="start" placement="above" number="1"/>
++          </notations>
++        </note>
++      <note default-x="84.12" default-y="-20.00">
+@@ -1829,4 +1900,5 @@
++        <notehead color="#FF0000">normal</notehead>
++        <staff>1</staff>
++        <beam number="1">continue</beam>
++        </note>
++      <note default-x="106.86" default-y="-15.00">
+@@ -1841,4 +1913,5 @@
++        <notehead color="#FF0000">normal</notehead>
++        <staff>1</staff>
++        <beam number="1">continue</beam>
++        </note>
++      <note default-x="129.60" default-y="-25.00">
+@@ -1853,7 +1926,8 @@
++        <notehead color="#FF0000">normal</notehead>
++        <staff>1</staff>
++        <beam number="1">end</beam>
++        </note>
++      <backup>
++        <duration>4</duration>
++        </backup>
++      <note default-x="61.37" default-y="-104.16">
+@@ -1868,16 +1942,59 @@
++        <notehead color="#FF0000">normal</notehead>
++        <staff>2</staff>
++        <beam number="1">begin</beam>
++        </note>
++      <note default-x="84.12" default-y="-114.16">
++        <pitch>
++          <step>G</step>
++          <octave>3</octave>
++          </pitch>
++        <duration>1</duration>
++        <voice>5</voice>
++        <type>eighth</type>
++        <stem>down</stem>
++        <notehead color="#FF0000">normal</notehead>
++        <staff>2</staff>
++        <beam number="1">continue</beam>
++        </note>
++      <note default-x="106.86" default-y="-99.16">
++        <pitch>
++          <step>C</step>
++          <octave>4</octave>
++          </pitch>
++        <duration>1</duration>
++        <voice>5</voice>
++        <type>eighth</type>
++        <stem>down</stem>
++        <notehead color="#FF0000">normal</notehead>
++        <staff>2</staff>
++        <beam number="1">continue</beam>
++        </note>
++      <note default-x="129.60" default-y="-114.16">
++        <pitch>
++          <step>G</step>
++          <octave>3</octave>
++          </pitch>
++        <duration>1</duration>
++        <voice>5</voice>
++        <type>eighth</type>
++        <stem>down</stem>
++        <notehead color="#FF0000">normal</notehead>
++        <staff>2</staff>
++        <beam number="1">end</beam>
++        </note>
++      </measure>
++    <measure number="22" width="106.80">
++      <note default-x="13.80" default-y="-20.00">
++        <pitch>
++          <step>B</step>
++          <octave>4</octave>
++          </pitch>
++        <duration>1</duration>
++        <voice>1</voice>
++        <type>eighth</type>
++        <stem>up</stem>
++        <notehead color="#FF0000">normal</notehead>
++        <staff>1</staff>
++        <beam number="1">begin</beam>
++        </note>
++      <note default-x="36.54" default-y="-25.00">
+@@ -1886,24 +2003,11 @@
++          <octave>4</octave>
++          </pitch>
++        <duration>1</duration>
++        <voice>1</voice>
++        <type>eighth</type>
++        <stem>up</stem>
++        <notehead color="#FF0000">normal</notehead>
++        <staff>1</staff>
++        <beam number="1">continue</beam>
++        </note>
++      <note default-x="59.29" default-y="-20.00">
+@@ -1918,4 +2022,81 @@
++        <notehead color="#FF0000">normal</notehead>
++        <staff>1</staff>
++        <beam number="1">continue</beam>
++        </note>
++      <note default-x="82.03" default-y="-30.00">
++        <pitch>
++          <step>G</step>
++          <octave>4</octave>
++          </pitch>
++        <duration>1</duration>
++        <voice>1</voice>
++        <type>eighth</type>
++        <stem>up</stem>
++        <notehead color="#FF0000">normal</notehead>
++        <staff>1</staff>
++        <beam number="1">end</beam>
++        <notations>
++          <slur type="stop" number="1"/>
++          </notations>
++        </note>
++      <backup>
++        <duration>4</duration>
++        </backup>
++      <note default-x="13.80" default-y="-94.16">
++        <pitch>
++          <step>D</step>
++          <octave>4</octave>
++          </pitch>
++        <duration>1</duration>
++        <voice>5</voice>
++        <type>eighth</type>
++        <stem>down</stem>
++        <notehead color="#FF0000">normal</notehead>
++        <staff>2</staff>
++        <beam number="1">begin</beam>
++        </note>
++      <note default-x="36.54" default-y="-114.16">
++        <pitch>
++          <step>G</step>
++          <octave>3</octave>
++          </pitch>
++        <duration>1</duration>
++        <voice>5</voice>
++        <type>eighth</type>
++        <stem>down</stem>
++        <notehead color="#FF0000">normal</notehead>
++        <staff>2</staff>
++        <beam number="1">continue</beam>
++        </note>
++      <note default-x="59.29" default-y="-94.16">
++        <pitch>
++          <step>D</step>
++          <octave>4</octave>
++          </pitch>
++        <duration>1</duration>
++        <voice>5</voice>
++        <type>eighth</type>
++        <stem>down</stem>
++        <notehead color="#FF0000">normal</notehead>
++        <staff>2</staff>
++        <beam number="1">continue</beam>
++        </note>
++      <note default-x="82.03" default-y="-114.16">
++        <pitch>
++          <step>G</step>
++          <octave>3</octave>
++          </pitch>
++        <duration>1</duration>
++        <voice>5</voice>
++        <type>eighth</type>
++        <stem>down</stem>
++        <notehead color="#FF0000">normal</notehead>
++        <staff>2</staff>
++        <beam number="1">end</beam>
++        <notations>
++          <slur type="stop" number="2"/>
++          </notations>
++        </note>
++      </measure>
++    <measure number="23" width="106.80">
++      <note default-x="13.80" default-y="-25.00">
+@@ -1929,5 +2110,22 @@
++        <stem>down</stem>
++        <notehead color="#FF0000">normal</notehead>
++        <staff>1</staff>
++        <beam number="1">begin</beam>
++        <notations>
++          <slur color="#FF0000" type="start" placement="above" number="1"/>
++          </notations>
++        </note>
++      <note default-x="36.54" default-y="-15.00">
++        <pitch>
++          <step>C</step>
++          <octave>5</octave>
++          </pitch>
++        <duration>1</duration>
++        <voice>1</voice>
++        <type>eighth</type>
++        <stem>down</stem>
++        <notehead color="#FF0000">normal</notehead>
++        <staff>1</staff>
++        <beam number="1">continue</beam>
++        </note>
++      <note default-x="59.29" default-y="-20.00">
+@@ -1941,23 +2139,22 @@
++        <stem>down</stem>
++        <notehead color="#FF0000">normal</notehead>
++        <staff>1</staff>
++        <beam number="1">continue</beam>
++        </note>
++      <note default-x="82.03" default-y="-25.00">
++        <pitch>
++          <step>A</step>
++          <octave>4</octave>
++          </pitch>
++        <duration>1</duration>
++        <voice>1</voice>
++        <type>eighth</type>
++        <stem>down</stem>
++        <notehead color="#FF0000">normal</notehead>
++        <staff>1</staff>
++        <beam number="1">end</beam>
++        </note>
++      <backup>
++        <duration>4</duration>
++        </backup>
++      <note default-x="13.80" default-y="-94.16">
+@@ -1972,148 +2169,48 @@
++        <notehead color="#FF0000">normal</notehead>
++        <staff>2</staff>
++        <beam number="1">begin</beam>
++        <notations>
++          <slur color="#FF0000" type="start" placement="above" number="2"/>
++          </notations>
++        </note>
++      <note default-x="36.54" default-y="-114.16">
++        <pitch>
++          <step>G</step>
++          <octave>3</octave>
++          </pitch>
++        <duration>1</duration>
++        <voice>5</voice>
++        <type>eighth</type>
++        <stem>down</stem>
++        <notehead color="#FF0000">normal</notehead>
++        <staff>2</staff>
++        <beam number="1">continue</beam>
++        </note>
++      <note default-x="59.29" default-y="-99.16">
++        <pitch>
++          <step>C</step>
++          <octave>4</octave>
++          </pitch>
++        <duration>1</duration>
++        <voice>5</voice>
++        <type>eighth</type>
++        <stem>down</stem>
++        <notehead color="#FF0000">normal</notehead>
++        <staff>2</staff>
++        <beam number="1">continue</beam>
++        </note>
++      <note default-x="82.03" default-y="-114.16">
++        <pitch>
++          <step>G</step>
++          <octave>3</octave>
++          </pitch>
++        <duration>1</duration>
++        <voice>5</voice>
++        <type>eighth</type>
++        <stem>down</stem>
++        <notehead color="#FF0000">normal</notehead>
++        <staff>2</staff>
++        <beam number="1">end</beam>
++        </note>
++      </measure>
++    <measure number="24" width="103.00">
+@@ -2128,0 +2226 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -2137 +2235 @@
++      <note default-x="55.49" default-y="-30.00">
+@@ -2145,0 +2244 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -2156 +2255 @@
++      <note default-x="10.00" default-y="-104.16">
+@@ -2165,19 +2264,18 @@
++        <notehead color="#FF0000">normal</notehead>
++        <staff>2</staff>
++        <beam number="1">begin</beam>
++        </note>
++      <note default-x="32.74" default-y="-114.16">
++        <pitch>
++          <step>G</step>
++          <octave>3</octave>
++          </pitch>
++        <duration>1</duration>
++        <voice>5</voice>
++        <type>eighth</type>
++        <stem>down</stem>
++        <notehead color="#FF0000">normal</notehead>
++        <staff>2</staff>
++        <beam number="1">continue</beam>
++        </note>
++      <note default-x="55.49" default-y="-109.16">
+@@ -2192,17 +2290,19 @@
++        <notehead color="#FF0000">normal</notehead>
++        <staff>2</staff>
++        <beam number="1">continue</beam>
++        </note>
++      <note default-x="78.23" default-y="-114.16">
++        <pitch>
++          <step>G</step>
++          <octave>3</octave>
++          </pitch>
++        <duration>1</duration>
++        <voice>5</voice>
++        <type>eighth</type>
++        <stem>down</stem>
++        <notehead color="#FF0000">normal</notehead>
++        <staff>2</staff>
++        <beam number="1">end</beam>
++        </note>
++      </measure>
++    <measure number="25" width="127.60">
+@@ -2218 +2318 @@
++      <note default-x="10.00" default-y="-109.16">
+@@ -2230,13 +2330,13 @@
++      <note default-x="30.79" default-y="-114.16">
++        <pitch>
++          <step>G</step>
++          <octave>3</octave>
++          </pitch>
++        <duration>1</duration>
++        <voice>5</voice>
++        <type>eighth</type>
++        <stem>down</stem>
++        <staff>2</staff>
++        <beam number="1">continue</beam>
++        </note>
++      <note default-x="51.57" default-y="-109.16">
+@@ -2254,72 +2354,13 @@
++      <note default-x="72.36" default-y="-114.16">
++        <pitch>
++          <step>G</step>
++          <octave>3</octave>
++          </pitch>
++        <duration>1</duration>
++        <voice>5</voice>
++        <type>eighth</type>
++        <stem>down</stem>
++        <staff>2</staff>
++        <beam number="1">end</beam>
++        <notations>
++          <slur type="stop" number="2"/>
+@@ -2332 +2373 @@
++    <measure number="26" width="103.00">
+@@ -2344 +2385 @@
++          <words>cresc. molto</words>
+@@ -2347 +2388 @@
++          <dashes type="start" number="1"/>
+@@ -2351 +2392 @@
++      <note default-x="10.00" default-y="-109.16">
+@@ -2366,13 +2407,13 @@
++      <note default-x="32.74" default-y="-114.16">
++        <pitch>
++          <step>G</step>
++          <octave>3</octave>
++          </pitch>
++        <duration>1</duration>
++        <voice>5</voice>
++        <type>eighth</type>
++        <stem>down</stem>
++        <staff>2</staff>
++        <beam number="1">continue</beam>
++        </note>
++      <note default-x="55.49" default-y="-119.16">
+@@ -2390 +2431 @@
++      <note default-x="78.23" default-y="-114.16">
+@@ -2409 +2450 @@
++    <measure number="27" width="103.00">
+@@ -2419 +2460 @@
++      <note default-x="10.00" default-y="-109.16">
+@@ -2431,13 +2472,13 @@
++      <note default-x="32.74" default-y="-114.16">
++        <pitch>
++          <step>G</step>
++          <octave>3</octave>
++          </pitch>
++        <duration>1</duration>
++        <voice>5</voice>
++        <type>eighth</type>
++        <stem>down</stem>
++        <staff>2</staff>
++        <beam number="1">continue</beam>
++        </note>
++      <note default-x="55.49" default-y="-119.16">
+@@ -2455 +2496,60 @@
++      <note default-x="78.23" default-y="-114.16">
++        <pitch>
++          <step>G</step>
++          <octave>3</octave>
++          </pitch>
++        <duration>1</duration>
++        <voice>5</voice>
++        <type>eighth</type>
++        <stem>down</stem>
++        <staff>2</staff>
++        <beam number="1">end</beam>
++        </note>
++      </measure>
++    <measure number="28" width="103.00">
++      <note>
++        <rest/>
++        <duration>4</duration>
++        <voice>1</voice>
++        <staff>1</staff>
++        </note>
++      <backup>
++        <duration>4</duration>
++        </backup>
++      <note default-x="10.00" default-y="-109.16">
++        <pitch>
++          <step>A</step>
++          <octave>3</octave>
++          </pitch>
++        <duration>1</duration>
++        <voice>5</voice>
++        <type>eighth</type>
++        <stem>down</stem>
++        <staff>2</staff>
++        <beam number="1">begin</beam>
++        </note>
++      <note default-x="32.74" default-y="-114.16">
++        <pitch>
++          <step>G</step>
++          <octave>3</octave>
++          </pitch>
++        <duration>1</duration>
++        <voice>5</voice>
++        <type>eighth</type>
++        <stem>down</stem>
++        <staff>2</staff>
++        <beam number="1">continue</beam>
++        </note>
++      <note default-x="55.49" default-y="-119.16">
++        <pitch>
++          <step>F</step>
++          <octave>3</octave>
++          </pitch>
++        <duration>1</duration>
++        <voice>5</voice>
++        <type>eighth</type>
++        <stem>down</stem>
++        <staff>2</staff>
++        <beam number="1">continue</beam>
++        </note>
++      <direction placement="above">
+@@ -2457 +2557 @@
++          <dynamics default-x="3.29" default-y="5.17" relative-y="30.00">
+@@ -2464 +2564 @@
++      <note default-x="78.23" default-y="-114.16">
+@@ -2481 +2581 @@
++          <words relative-y="20.00" font-weight="bold" font-style="italic" font-size="12">poco rit.</words>
+@@ -2490 +2590 @@
++    <measure number="29" width="103.00">
+@@ -2502 +2602 @@
++          <wedge type="diminuendo" number="1" default-y="36.14"/>
+@@ -2506 +2606 @@
++      <note default-x="10.00" default-y="-109.16">
+@@ -2518,13 +2618,13 @@
++      <note default-x="32.74" default-y="-114.16">
++        <pitch>
++          <step>G</step>
++          <octave>3</octave>
++          </pitch>
++        <duration>1</duration>
++        <voice>5</voice>
++        <type>eighth</type>
++        <stem>down</stem>
++        <staff>2</staff>
++        <beam number="1">continue</beam>
++        </note>
++      <note default-x="55.49" default-y="-119.16">
+@@ -2542 +2642 @@
++      <note default-x="78.23" default-y="-134.16">
+@@ -2565 +2665 @@
++    <measure number="30" width="103.00">
+@@ -2568 +2668 @@
++          <words relative-y="20.00" font-weight="bold" font-style="italic" font-size="12">a tempo</words>
+@@ -2588 +2688 @@
++      <note default-x="32.74" default-y="-40.00">
+@@ -2600 +2700 @@
++      <note default-x="55.49" default-y="-35.00">
+@@ -2612 +2712 @@
++      <note default-x="78.23" default-y="-45.00">
+@@ -2629 +2729 @@
++          <dynamics default-x="6.58" default-y="1.14" relative-y="30.00">
+@@ -2636 +2736 @@
++      <note default-x="10.00" default-y="-134.16">
+@@ -2667 +2767 @@
++          <system-distance>130.06</system-distance>
+@@ -2670 +2770 @@
++          <staff-distance>78.48</staff-distance>
+@@ -2744,4 +2844,5 @@
++        <notehead color="#FF0000">normal</notehead>
++        <staff>1</staff>
++        <beam number="1">begin</beam>
++        <notations>
++          <slur color="#FF0000" type="start" placement="below" number="1"/>
+@@ -2758,0 +2860 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -2770,0 +2873 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -2783,34 +2886,37 @@
++        <notehead color="#FF0000">normal</notehead>
++        <staff>1</staff>
++        <beam number="1">end</beam>
++        </note>
++      <backup>
++        <duration>4</duration>
++        </backup>
++      <note default-x="10.00" default-y="-123.48">
++        <pitch>
++          <step>G</step>
++          <octave>3</octave>
++          </pitch>
++        <duration>1</duration>
++        <voice>5</voice>
++        <type>eighth</type>
++        <stem>down</stem>
++        <notehead color="#FF0000">normal</notehead>
++        <staff>2</staff>
++        <beam number="1">begin</beam>
++        <notations>
++          <slur color="#FF0000" type="start" placement="above" number="2"/>
++          </notations>
++        </note>
++      <note default-x="33.53" default-y="-143.48">
++        <pitch>
++          <step>C</step>
++          <octave>3</octave>
++          </pitch>
++        <duration>1</duration>
++        <voice>5</voice>
++        <type>eighth</type>
++        <stem>down</stem>
++        <notehead color="#FF0000">normal</notehead>
++        <staff>2</staff>
++        <beam number="1">continue</beam>
++        </note>
++      <note default-x="57.07" default-y="-128.48">
+@@ -2825,12 +2931,14 @@
++        <notehead color="#FF0000">normal</notehead>
++        <staff>2</staff>
++        <beam number="1">continue</beam>
++        </note>
++      <note default-x="80.60" default-y="-143.48">
++        <pitch>
++          <step>C</step>
++          <octave>3</octave>
++          </pitch>
++        <duration>1</duration>
++        <voice>5</voice>
++        <type>eighth</type>
++        <stem>down</stem>
++        <notehead color="#FF0000">normal</notehead>
+@@ -2850,0 +2959 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -2867,0 +2977 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -2878 +2988 @@
++      <note default-x="10.00" default-y="-133.48">
+@@ -2887,16 +2997,18 @@
++        <notehead color="#FF0000">normal</notehead>
++        <staff>2</staff>
++        <beam number="1">begin</beam>
++        </note>
++      <note default-x="33.53" default-y="-143.48">
++        <pitch>
++          <step>C</step>
++          <octave>3</octave>
++          </pitch>
++        <duration>1</duration>
++        <voice>5</voice>
++        <type>eighth</type>
++        <stem>down</stem>
++        <notehead color="#FF0000">normal</notehead>
++        <staff>2</staff>
++        <beam number="1">continue</beam>
++        </note>
++      <note default-x="57.07" default-y="-138.48">
+@@ -2911,12 +3023,14 @@
++        <notehead color="#FF0000">normal</notehead>
++        <staff>2</staff>
++        <beam number="1">continue</beam>
++        </note>
++      <note default-x="80.60" default-y="-143.48">
++        <pitch>
++          <step>C</step>
++          <octave>3</octave>
++          </pitch>
++        <duration>1</duration>
++        <voice>5</voice>
++        <type>eighth</type>
++        <stem>down</stem>
++        <notehead color="#FF0000">normal</notehead>
+@@ -2937,4 +3051,5 @@
++        <notehead color="#FF0000">normal</notehead>
++        <staff>1</staff>
++        <beam number="1">begin</beam>
++        <notations>
++          <slur color="#FF0000" type="start" placement="below" number="1"/>
+@@ -2951,0 +3067 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -2963,0 +3080 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -2976,7 +3093,8 @@
++        <notehead color="#FF0000">normal</notehead>
++        <staff>1</staff>
++        <beam number="1">end</beam>
++        </note>
++      <backup>
++        <duration>4</duration>
++        </backup>
++      <note default-x="10.00" default-y="-133.48">
+@@ -2991,16 +3109,18 @@
++        <notehead color="#FF0000">normal</notehead>
++        <staff>2</staff>
++        <beam number="1">begin</beam>
++        </note>
++      <note default-x="33.53" default-y="-143.48">
++        <pitch>
++          <step>C</step>
++          <octave>3</octave>
++          </pitch>
++        <duration>1</duration>
++        <voice>5</voice>
++        <type>eighth</type>
++        <stem>down</stem>
++        <notehead color="#FF0000">normal</notehead>
++        <staff>2</staff>
++        <beam number="1">continue</beam>
++        </note>
++      <note default-x="57.07" default-y="-128.48">
+@@ -3015,12 +3135,14 @@
++        <notehead color="#FF0000">normal</notehead>
++        <staff>2</staff>
++        <beam number="1">continue</beam>
++        </note>
++      <note default-x="80.60" default-y="-143.48">
++        <pitch>
++          <step>C</step>
++          <octave>3</octave>
++          </pitch>
++        <duration>1</duration>
++        <voice>5</voice>
++        <type>eighth</type>
++        <stem>down</stem>
++        <notehead color="#FF0000">normal</notehead>
+@@ -3040,0 +3163 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -3052,0 +3176 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -3064,0 +3189 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -3076,0 +3202 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -3086,45 +3212,49 @@
++      <note default-x="10.00" default-y="-123.48">
++        <pitch>
++          <step>G</step>
++          <octave>3</octave>
++          </pitch>
++        <duration>1</duration>
++        <voice>5</voice>
++        <type>eighth</type>
++        <stem>down</stem>
++        <notehead color="#FF0000">normal</notehead>
++        <staff>2</staff>
++        <beam number="1">begin</beam>
++        </note>
++      <note default-x="33.53" default-y="-143.48">
++        <pitch>
++          <step>C</step>
++          <octave>3</octave>
++          </pitch>
++        <duration>1</duration>
++        <voice>5</voice>
++        <type>eighth</type>
++        <stem>down</stem>
++        <notehead color="#FF0000">normal</notehead>
++        <staff>2</staff>
++        <beam number="1">continue</beam>
++        </note>
++      <note default-x="57.07" default-y="-123.48">
++        <pitch>
++          <step>G</step>
++          <octave>3</octave>
++          </pitch>
++        <duration>1</duration>
++        <voice>5</voice>
++        <type>eighth</type>
++        <stem>down</stem>
++        <notehead color="#FF0000">normal</notehead>
++        <staff>2</staff>
++        <beam number="1">continue</beam>
++        </note>
++      <note default-x="80.60" default-y="-143.48">
++        <pitch>
++          <step>C</step>
++          <octave>3</octave>
++          </pitch>
++        <duration>1</duration>
++        <voice>5</voice>
++        <type>eighth</type>
++        <stem>down</stem>
++        <notehead color="#FF0000">normal</notehead>
+@@ -3148,4 +3278,5 @@
++        <notehead color="#FF0000">normal</notehead>
++        <staff>1</staff>
++        <beam number="1">begin</beam>
++        <notations>
++          <slur color="#FF0000" type="start" placement="below" number="1"/>
+@@ -3162,0 +3294 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -3174,0 +3307 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -3187,34 +3320,37 @@
++        <notehead color="#FF0000">normal</notehead>
++        <staff>1</staff>
++        <beam number="1">end</beam>
++        </note>
++      <backup>
++        <duration>4</duration>
++        </backup>
++      <note default-x="10.00" default-y="-123.48">
++        <pitch>
++          <step>G</step>
++          <octave>3</octave>
++          </pitch>
++        <duration>1</duration>
++        <voice>5</voice>
++        <type>eighth</type>
++        <stem>down</stem>
++        <notehead color="#FF0000">normal</notehead>
++        <staff>2</staff>
++        <beam number="1">begin</beam>
++        <notations>
++          <slur color="#FF0000" type="start" placement="above" number="2"/>
++          </notations>
++        </note>
++      <note default-x="33.53" default-y="-143.48">
++        <pitch>
++          <step>C</step>
++          <octave>3</octave>
++          </pitch>
++        <duration>1</duration>
++        <voice>5</voice>
++        <type>eighth</type>
++        <stem>down</stem>
++        <notehead color="#FF0000">normal</notehead>
++        <staff>2</staff>
++        <beam number="1">continue</beam>
++        </note>
++      <note default-x="57.07" default-y="-128.48">
+@@ -3229,12 +3365,14 @@
++        <notehead color="#FF0000">normal</notehead>
++        <staff>2</staff>
++        <beam number="1">continue</beam>
++        </note>
++      <note default-x="80.60" default-y="-143.48">
++        <pitch>
++          <step>C</step>
++          <octave>3</octave>
++          </pitch>
++        <duration>1</duration>
++        <voice>5</voice>
++        <type>eighth</type>
++        <stem>down</stem>
++        <notehead color="#FF0000">normal</notehead>
+@@ -3246 +3384 @@
++      <direction placement="above">
+@@ -3248 +3386 @@
++          <words>dim.</words>
+@@ -3251 +3389 @@
++          <dashes type="start" number="1"/>
+@@ -3263,0 +3402 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -3280,0 +3420 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -3291 +3431 @@
++      <note default-x="13.80" default-y="-133.48">
+@@ -3300,16 +3440,18 @@
++        <notehead color="#FF0000">normal</notehead>
++        <staff>2</staff>
++        <beam number="1">begin</beam>
++        </note>
++      <note default-x="37.33" default-y="-143.48">
++        <pitch>
++          <step>C</step>
++          <octave>3</octave>
++          </pitch>
++        <duration>1</duration>
++        <voice>5</voice>
++        <type>eighth</type>
++        <stem>down</stem>
++        <notehead color="#FF0000">normal</notehead>
++        <staff>2</staff>
++        <beam number="1">continue</beam>
++        </note>
++      <note default-x="60.87" default-y="-138.48">
+@@ -3324,12 +3466,14 @@
++        <notehead color="#FF0000">normal</notehead>
++        <staff>2</staff>
++        <beam number="1">continue</beam>
++        </note>
++      <note default-x="84.40" default-y="-143.48">
++        <pitch>
++          <step>C</step>
++          <octave>3</octave>
++          </pitch>
++        <duration>1</duration>
++        <voice>5</voice>
++        <type>eighth</type>
++        <stem>down</stem>
++        <notehead color="#FF0000">normal</notehead>
+@@ -3350 +3494 @@
++      <note default-x="10.00" default-y="-133.48">
+@@ -3362,13 +3506,13 @@
++      <note default-x="33.53" default-y="-143.48">
++        <pitch>
++          <step>C</step>
++          <octave>3</octave>
++          </pitch>
++        <duration>1</duration>
++        <voice>5</voice>
++        <type>eighth</type>
++        <stem>down</stem>
++        <staff>2</staff>
++        <beam number="1">continue</beam>
++        </note>
++      <note default-x="57.07" default-y="-128.48">
+@@ -3386 +3530 @@
++      <note default-x="80.60" default-y="-143.48">
+@@ -3412 +3556 @@
++          <slur color="#FF0000" type="start" placement="below" number="1"/>
+@@ -3454,13 +3598,13 @@
++      <note default-x="10.00" default-y="-123.48">
++        <pitch>
++          <step>G</step>
++          <octave>3</octave>
++          </pitch>
++        <duration>1</duration>
++        <voice>5</voice>
++        <type>eighth</type>
++        <stem>down</stem>
++        <staff>2</staff>
++        <beam number="1">begin</beam>
++        </note>
++      <note default-x="33.79" default-y="-143.48">
+@@ -3498,0 +3643 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -3512,0 +3658 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -3520 +3666 @@
++      <direction placement="above">
+@@ -3529 +3675 @@
++      <note default-x="10.00" default-y="-133.48">
+@@ -3538,19 +3684,21 @@
++        <notehead color="#FF0000">normal</notehead>
++        <staff>2</staff>
++        <beam number="1">begin</beam>
++        <notations>
++          <slur color="#FF0000" type="start" placement="above" number="1"/>
++          </notations>
++        </note>
++      <note default-x="33.53" default-y="-143.48">
++        <pitch>
++          <step>C</step>
++          <octave>3</octave>
++          </pitch>
++        <duration>1</duration>
++        <voice>5</voice>
++        <type>eighth</type>
++        <stem>down</stem>
++        <notehead color="#FF0000">normal</notehead>
++        <staff>2</staff>
++        <beam number="1">continue</beam>
++        </note>
++      <note default-x="57.07" default-y="-138.48">
+@@ -3565,12 +3713,14 @@
++        <notehead color="#FF0000">normal</notehead>
++        <staff>2</staff>
++        <beam number="1">continue</beam>
++        </note>
++      <note default-x="80.60" default-y="-143.48">
++        <pitch>
++          <step>C</step>
++          <octave>3</octave>
++          </pitch>
++        <duration>1</duration>
++        <voice>5</voice>
++        <type>eighth</type>
++        <stem>down</stem>
++        <notehead color="#FF0000">normal</notehead>
+@@ -3588 +3738 @@
++          <system-distance>130.06</system-distance>
+@@ -3591 +3741 @@
++          <staff-distance>77.59</staff-distance>
+@@ -3603 +3753 @@
++      <note default-x="61.37" default-y="-132.59">
+@@ -3615,13 +3765,13 @@
++      <note default-x="84.03" default-y="-142.59">
++        <pitch>
++          <step>C</step>
++          <octave>3</octave>
++          </pitch>
++        <duration>1</duration>
++        <voice>5</voice>
++        <type>eighth</type>
++        <stem>down</stem>
++        <staff>2</staff>
++        <beam number="1">continue</beam>
++        </note>
++      <note default-x="106.68" default-y="-127.59">
+@@ -3639 +3789 @@
++      <note default-x="129.33" default-y="-142.59">
+@@ -3655 +3805 @@
++          <dynamics default-x="6.58" default-y="-42.23" relative-y="-40.00">
+@@ -3716,13 +3866,13 @@
++      <note default-x="10.00" default-y="-122.59">
++        <pitch>
++          <step>G</step>
++          <octave>3</octave>
++          </pitch>
++        <duration>1</duration>
++        <voice>5</voice>
++        <type>eighth</type>
++        <stem>down</stem>
++        <staff>2</staff>
++        <beam number="1">begin</beam>
++        </note>
++      <note default-x="33.00" default-y="-142.59">
+@@ -3790,2 +3940,2 @@
++          <dynamics default-x="3.29" default-y="-40.00" relative-x="34.00" relative-y="-40.00">
++            <other-dynamics>,espr.</other-dynamics>
+@@ -3797 +3947,10 @@
++      <direction placement="below">
++        <direction-type>
++          <dynamics default-x="3.29" default-y="-40.00" relative-y="-40.00">
++            <p/>
++            </dynamics>
++          </direction-type>
++        <staff>2</staff>
++        <sound dynamics="54.44"/>
++        </direction>
++      <note default-x="13.80" default-y="-137.59">
+@@ -3809 +3968 @@
++      <note default-x="36.45" default-y="-127.59">
+@@ -3824 +3983 @@
++      <note default-x="59.11" default-y="-132.59">
+@@ -3836 +3995 @@
++      <note default-x="81.76" default-y="-137.59">
+@@ -3868 +4027 @@
++      <note default-x="10.00" default-y="-137.59">
+@@ -3880 +4039 @@
++      <note default-x="32.65" default-y="-127.59">
+@@ -3895 +4054 @@
++      <note default-x="55.31" default-y="-132.59">
+@@ -3907 +4066 @@
++      <note default-x="77.96" default-y="-137.59">
+@@ -3942,13 +4101,13 @@
++      <note default-x="10.00" default-y="-122.59">
++        <pitch>
++          <step>G</step>
++          <octave>3</octave>
++          </pitch>
++        <duration>1</duration>
++        <voice>5</voice>
++        <type>eighth</type>
++        <stem>down</stem>
++        <staff>2</staff>
++        <beam number="1">begin</beam>
++        </note>
++      <note default-x="32.65" default-y="-127.59">
+@@ -3966 +4125 @@
++      <note default-x="55.31" default-y="-137.59">
+@@ -3978 +4137 @@
++      <note default-x="77.96" default-y="-142.59">
+@@ -4016 +4175 @@
++      <note default-x="10.00" default-y="-137.59">
+@@ -4031 +4190 @@
++      <note default-x="32.65" default-y="-127.59">
+@@ -4043 +4202 @@
++      <note default-x="55.31" default-y="-132.59">
+@@ -4055 +4214 @@
++      <note default-x="77.96" default-y="-137.59">
+@@ -4090,13 +4249,13 @@
++      <note default-x="10.00" default-y="-122.59">
++        <pitch>
++          <step>G</step>
++          <octave>3</octave>
++          </pitch>
++        <duration>1</duration>
++        <voice>5</voice>
++        <type>eighth</type>
++        <stem>down</stem>
++        <staff>2</staff>
++        <beam number="1">begin</beam>
++        </note>
++      <note default-x="32.65" default-y="-127.59">
+@@ -4114 +4273 @@
++      <note default-x="55.31" default-y="-137.59">
+@@ -4129 +4288 @@
++      <note default-x="77.96" default-y="-142.59">
+@@ -4158 +4317 @@
++      <direction placement="above">
+@@ -4160 +4319 @@
++          <words>cresc.</words>
+@@ -4163 +4322 @@
++          <dashes type="start" number="1"/>
+@@ -4167 +4326 @@
++      <note default-x="10.00" default-y="-137.59">
+@@ -4182 +4341 @@
++      <note default-x="32.65" default-y="-127.59">
+@@ -4194,13 +4353,13 @@
++      <note default-x="55.31" default-y="-122.59">
++        <pitch>
++          <step>G</step>
++          <octave>3</octave>
++          </pitch>
++        <duration>1</duration>
++        <voice>5</voice>
++        <type>eighth</type>
++        <stem>down</stem>
++        <staff>2</staff>
++        <beam number="1">continue</beam>
++        </note>
++      <note default-x="77.96" default-y="-127.59">
+@@ -4222 +4381 @@
++          <words relative-y="20.00" font-weight="bold" font-style="italic" font-size="12"> ritard.</words>
+@@ -4236 +4395 @@
++      <note default-x="10.00" default-y="-137.59">
+@@ -4248,25 +4407,25 @@
++      <note default-x="32.65" default-y="-142.59">
++        <pitch>
++          <step>C</step>
++          <octave>3</octave>
++          </pitch>
++        <duration>1</duration>
++        <voice>5</voice>
++        <type>eighth</type>
++        <stem>down</stem>
++        <staff>2</staff>
++        <beam number="1">continue</beam>
++        </note>
++      <note default-x="55.31" default-y="-122.59">
++        <pitch>
++          <step>G</step>
++          <octave>3</octave>
++          </pitch>
++        <duration>1</duration>
++        <voice>5</voice>
++        <type>eighth</type>
++        <stem>down</stem>
++        <staff>2</staff>
++        <beam number="1">continue</beam>
++        </note>
++      <note default-x="77.96" default-y="-127.59">
+@@ -4284 +4443 @@
++      <direction placement="above">
+@@ -4303,2 +4462,2 @@
++          <dynamics default-x="6.58" default-y="-40.00" relative-x="34.00" relative-y="-40.00">
++            <other-dynamics>sempre</other-dynamics>
+@@ -4310 +4469,10 @@
++      <direction placement="below">
++        <direction-type>
++          <dynamics default-x="6.58" default-y="-40.00" relative-x="-8.00" relative-y="-40.00">
++            <f/>
++            </dynamics>
++          </direction-type>
++        <staff>2</staff>
++        <sound dynamics="106.67"/>
++        </direction>
++      <note default-x="10.00" default-y="-142.59">
+@@ -4325,0 +4494,9 @@
++      <direction placement="below">
++        <direction-type>
++          <dynamics default-x="3.29" default-y="-40.00" relative-y="-40.00">
++            <p/>
++            </dynamics>
++          </direction-type>
++        <staff>1</staff>
++        <sound dynamics="54.44"/>
++        </direction>
+@@ -4335,0 +4513,3 @@
++        <notations>
++          <fermata type="upright"/>
++          </notations>
+@@ -4352 +4532 @@
++      <note default-x="10.36" default-y="-142.59">
+@@ -4361,0 +4542,3 @@
++        <notations>
++          <fermata type="upright"/>
++          </notations>

@@ -1,0 +1,978 @@
+--- /data/CIPI/repo/CIPI/xmander_files/5271127.musicxml
++++ /data/CIPI/repo/difficulty_dataset/1_Bach_Menuet_bwvAnh_132.xml
+@@ -5,2 +5,5 @@
++      <work-number>BWV Anh. 113–132</work-number>
++      <work-title>Notenbüchlein für Anna Magdalena Bach</work-title>
++  </work>
++  <movement-number>36</movement-number>
++  <movement-title>Minuet in D Minor, BWV Anh. 132</movement-title>
+@@ -8,2 +11,9 @@
++    <creator type="composer">Bach, Johann Sebastian</creator>
++    <creator type="transcriber">Eric Davis (https://musescore.com/user/9292486/scores/2086036)</creator>
++    <creator type="converter">Ramoneda et al. (https://doi.org/10.1016/j.eswa.2023.121776)</creator>
++    <creator type="editor">María Hontanilla</creator>
++    <rights>
++      Original digital score: Eric Davis, CC0 1.0
++      MusicXML conversion: Ramoneda et al. (2024), use restricted to non-profit academic research.
++      Revisions and annotations: María Hontanilla (2025), CC BY 4.0.
++    </rights>
+@@ -12 +22,3 @@
++      <encoding-date>2024-10-20</encoding-date>
++      <encoder>María Hontanilla</encoder>
++      <encoding-description>Digital score revised and annotated for scientific research.</encoding-description>
+@@ -19 +31 @@
++    <source>https://doi.org/10.5281/zenodo.8037327</source>
+@@ -27,7 +39,13 @@
++      <page-height>1683.67</page-height>
++      <page-width>1190.48</page-width>
++      <page-margins type="even">
++        <left-margin>56.6893</left-margin>
++        <right-margin>56.6893</right-margin>
++        <top-margin>56.6893</top-margin>
++        <bottom-margin>113.379</bottom-margin>
++        </page-margins>
++      <page-margins type="odd">
++        <left-margin>56.6893</left-margin>
++        <right-margin>56.6893</right-margin>
++        <top-margin>56.6893</top-margin>
++        <bottom-margin>113.379</bottom-margin>
+@@ -40,4 +58 @@
++    <credit-words default-x="1133.79" default-y="1501.98" justify="right" valign="bottom" font-size="12">11.10.2018
+@@ -50,5 +65 @@
++    <credit-words default-x="56.6893" default-y="1501.98" justify="left" valign="bottom" font-size="12">Il Mio Primo vol. 1
+@@ -61 +72,8 @@
++    <credit-words default-x="595.238" default-y="1626.98" justify="center" valign="top" font-size="24">Minuet in d Minor</credit-words>
++    </credit>
++  <credit page="1">
++    <credit-words default-x="595.238" default-y="1570.29" justify="center" valign="top" font-style="italic" font-size="14">Anna Magdelena Bach Notebook
++</credit-words>
++    </credit>
++  <credit page="1">
++    <credit-words default-x="595.238" default-y="113.379" justify="center" valign="bottom" font-size="8">Public Domain (PianoXML typeset)</credit-words>
+@@ -71,0 +90 @@
++        <midi-program>1</midi-program>
+@@ -78 +97 @@
++    <measure number="1" width="222.89">
+@@ -82 +101 @@
++            <left-margin>21.00</left-margin>
+@@ -85 +104 @@
++          <top-system-distance>281.24</top-system-distance>
+@@ -88 +107 @@
++          <staff-distance>74.19</staff-distance>
+@@ -111,3 +130,3 @@
++      <direction placement="above">
++        <direction-type>
++          <words default-y="1.37" relative-y="20.00" font-size="20">5</words>
+@@ -120 +139 @@
++          <words default-y="38.24" relative-y="20.00">Moderato grazioso
+@@ -127 +146 @@
++          <metronome parentheses="no" default-x="-36.32" default-y="79.41" relative-y="20.00">
+@@ -146,5 +165,5 @@
++          <rehearsal default-x="-20.23" default-y="98.92" relative-y="30.00" font-weight="bold" font-size="14">A</rehearsal>
++          </direction-type>
++        <staff>1</staff>
++        </direction>
++      <note default-x="101.93" default-y="-25.00">
+@@ -166,7 +185,7 @@
++      <direction placement="above">
++        <direction-type>
++          <words default-y="61.00" relative-y="20.00" font-style="italic">espressivo</words>
++          </direction-type>
++        <staff>1</staff>
++        </direction>
++      <note default-x="130.87" default-y="0.00">
+@@ -187 +206 @@
++      <note default-x="148.95" default-y="-5.00">
+@@ -199 +218 @@
++      <note default-x="167.04" default-y="-10.00">
+@@ -211 +230 @@
++      <note default-x="198.12" default-y="-15.00">
+@@ -228 +247 @@
++      <note default-x="101.57" default-y="-134.19">
+@@ -242 +261 @@
++      <note default-x="167.04" default-y="-129.19">
+@@ -254,2 +273,2 @@
++    <measure number="2" width="77.92">
++      <note default-x="10.72" default-y="-10.00">
+@@ -269 +288 @@
++      <note default-x="31.94" default-y="-25.00">
+@@ -280 +299 @@
++      <note default-x="53.15" default-y="-20.00">
+@@ -303 +322 @@
++      <note default-x="10.36" default-y="-124.19">
+@@ -314 +333 @@
++      <note default-x="53.15" default-y="-119.19">
+@@ -326 +345 @@
++    <measure number="3" width="141.66">
+@@ -329,5 +348,5 @@
++          <wedge type="crescendo" number="1" default-y="-89.85"/>
++          </direction-type>
++        <staff>1</staff>
++        </direction>
++      <note default-x="20.42" default-y="-50.00">
+@@ -353 +372 @@
++      <note default-x="39.71" default-y="-40.00">
+@@ -370 +389 @@
++      <note default-x="59.01" default-y="-30.00">
+@@ -387 +406 @@
++      <note default-x="78.30" default-y="-20.00">
+@@ -405 +424 @@
++      <note default-x="97.60" default-y="-25.00">
+@@ -417 +436 @@
++      <note default-x="116.89" default-y="-30.00">
+@@ -431 +450 @@
++          <wedge type="stop" number="1"/>
+@@ -438 +457 @@
++      <note default-x="20.05" default-y="-114.19">
+@@ -449 +468 @@
++      <note default-x="97.60" default-y="-149.19">
+@@ -466,2 +485,2 @@
++    <measure number="4" width="95.21">
++      <note default-x="10.00" default-y="-35.00">
+@@ -478 +497 @@
++      <note default-x="35.73" default-y="-40.00">
+@@ -497,5 +516,5 @@
++          <wedge type="diminuendo" number="1" default-y="-79.90"/>
++          </direction-type>
++        <staff>1</staff>
++        </direction>
++      <note default-x="51.81" default-y="-35.00">
+@@ -518 +537 @@
++      <note default-x="67.89" default-y="-45.00">
+@@ -537 +556 @@
++          <wedge type="stop" number="1"/>
+@@ -544 +563 @@
++      <note default-x="10.00" default-y="-134.19">
+@@ -558 +577 @@
++      <note default-x="35.73" default-y="-149.19">
+@@ -569 +588 @@
++      <note default-x="67.89" default-y="-169.19">
+@@ -581,11 +600,11 @@
++    <measure number="5" width="113.23">
++      <direction placement="above">
++        <direction-type>
++          <words>cresc.</words>
++          </direction-type>
++        <direction-type>
++          <dashes type="start" number="1"/>
++          </direction-type>
++        <staff>1</staff>
++        </direction>
++      <note default-x="10.00" default-y="-35.00">
+@@ -607 +626 @@
++      <note default-x="37.29" default-y="-20.00">
+@@ -626 +645 @@
++      <note default-x="54.35" default-y="-25.00">
+@@ -644 +663 @@
++      <note default-x="71.41" default-y="-10.00">
+@@ -662 +681 @@
++      <note default-x="88.46" default-y="-15.00">
+@@ -680 +699 @@
++      <direction placement="above">
+@@ -689 +708 @@
++      <note default-x="10.00" default-y="-134.19">
+@@ -706 +725 @@
++      <note default-x="37.29" default-y="-139.19">
+@@ -717 +736 @@
++      <note default-x="71.41" default-y="-144.19">
+@@ -730,2 +749,2 @@
++    <measure number="6" width="158.86">
++      <note default-x="10.36" default-y="-10.00">
+@@ -751 +770 @@
++      <note default-x="26.03" default-y="-5.00">
+@@ -770 +789 @@
++      <note default-x="41.69" default-y="0.00">
+@@ -790 +809 @@
++      <note default-x="67.45" default-y="-5.00">
+@@ -802 +821 @@
++      <note default-x="89.66" default-y="-10.00">
+@@ -814 +833 @@
++      <note default-x="111.88" default-y="-15.00">
+@@ -828,5 +847,5 @@
++          <wedge type="diminuendo" number="1" default-y="-75.00"/>
++          </direction-type>
++        <staff>1</staff>
++        </direction>
++      <note default-x="134.09" default-y="-20.00">
+@@ -852 +871 @@
++          <wedge type="stop" number="1"/>
+@@ -859 +878 @@
++      <note default-x="10.00" default-y="-149.19">
+@@ -873 +892 @@
++      <note default-x="111.88" default-y="-129.19">
+@@ -891,2 +910,2 @@
++    <measure number="7" width="113.23">
++      <note default-x="10.00" default-y="-25.00">
+@@ -909 +928 @@
++      <note default-x="28.75" default-y="-20.00">
+@@ -923 +942 @@
++      <note default-x="44.41" default-y="-15.00">
+@@ -936 +955 @@
++      <note default-x="60.08" default-y="-35.00">
+@@ -958 +977 @@
++      <note default-x="85.85" default-y="-40.00">
+@@ -980 +999 @@
++      <note default-x="10.00" default-y="-124.19">
+@@ -991 +1010 @@
++      <note default-x="60.08" default-y="-149.19">
+@@ -1008 +1027 @@
++      <note default-x="85.85" default-y="-139.19">
+@@ -1025,4 +1044,4 @@
++    <measure number="8" width="133.10">
++      <direction placement="above">
++        <direction-type>
++          <rehearsal default-x="-12.14" default-y="23.89" relative-y="30.00" font-weight="bold" font-size="14">*</rehearsal>
+@@ -1038 +1057 @@
++      <note default-x="11.78" default-y="-35.00">
+@@ -1060 +1079 @@
++      <note default-x="12.14" default-y="-159.19">
+@@ -1076 +1095 @@
++      <note default-x="41.08" default-y="-124.19">
+@@ -1091 +1110 @@
++      <note default-x="59.17" default-y="-129.19">
+@@ -1103 +1122 @@
++      <note default-x="77.25" default-y="-134.19">
+@@ -1115 +1134 @@
++      <note default-x="108.34" default-y="-139.19">
+@@ -1133 +1152 @@
++    <measure number="9" width="198.98">
+@@ -1137 +1156 @@
++            <left-margin>21.00</left-margin>
+@@ -1140 +1159 @@
++          <system-distance>150.00</system-distance>
+@@ -1143 +1162 @@
++          <staff-distance>73.87</staff-distance>
+@@ -1148 +1167 @@
++          <dynamics default-x="6.58" default-y="-40.00" relative-y="-40.00">
+@@ -1155,6 +1173,0 @@
+@@ -1163,5 +1176,11 @@
++          <words default-y="9.18" relative-y="20.00" font-style="italic">espressivo</words>
++          </direction-type>
++        <staff>1</staff>
++        </direction>
++      <direction placement="above">
++        <direction-type>
++          <rehearsal default-x="-25.13" relative-y="30.00" font-weight="bold" font-size="14">A'</rehearsal>
++          </direction-type>
++        <staff>1</staff>
++        </direction>
++      <note default-x="80.84" default-y="-25.00">
+@@ -1183 +1202 @@
++      <note default-x="108.52" default-y="0.00">
+@@ -1199 +1218 @@
++      <note default-x="125.83" default-y="-5.00">
+@@ -1211 +1230 @@
++      <note default-x="143.13" default-y="-10.00">
+@@ -1223 +1242 @@
++      <note default-x="174.21" default-y="-15.00">
+@@ -1240 +1259 @@
++      <note default-x="80.47" default-y="-133.87">
+@@ -1254 +1273 @@
++      <note default-x="143.13" default-y="-128.87">
+@@ -1266,2 +1285,2 @@
++    <measure number="10" width="75.10">
++      <note default-x="10.72" default-y="-10.00">
+@@ -1282 +1301 @@
++      <note default-x="30.53" default-y="-25.00">
+@@ -1293 +1312 @@
++      <note default-x="50.34" default-y="-20.00">
+@@ -1316 +1335 @@
++      <note default-x="10.36" default-y="-123.87">
+@@ -1327 +1346 @@
++      <note default-x="50.34" default-y="-118.87">
+@@ -1339 +1358 @@
++    <measure number="11" width="138.84">
+@@ -1342,5 +1361,5 @@
++          <wedge type="crescendo" number="1" default-y="-89.69"/>
++          </direction-type>
++        <staff>1</staff>
++        </direction>
++      <note default-x="20.42" default-y="-50.00">
+@@ -1366 +1385 @@
++      <note default-x="39.15" default-y="-40.00">
+@@ -1383 +1402 @@
++      <note default-x="57.88" default-y="-30.00">
+@@ -1400 +1419 @@
++      <note default-x="76.61" default-y="-20.00">
+@@ -1418 +1437 @@
++      <note default-x="95.35" default-y="-25.00">
+@@ -1430 +1449 @@
++      <note default-x="114.08" default-y="-30.00">
+@@ -1444 +1463 @@
++          <wedge type="stop" number="1"/>
+@@ -1451 +1470 @@
++      <note default-x="20.05" default-y="-113.87">
+@@ -1462 +1481 @@
++      <note default-x="95.35" default-y="-148.87">
+@@ -1474,2 +1493,2 @@
++    <measure number="12" width="92.40">
++      <note default-x="10.00" default-y="-35.00">
+@@ -1486 +1505 @@
++      <note default-x="34.73" default-y="-40.00">
+@@ -1505,5 +1524,5 @@
++          <wedge type="diminuendo" number="1" default-y="-79.81"/>
++          </direction-type>
++        <staff>1</staff>
++        </direction>
++      <note default-x="50.40" default-y="-35.00">
+@@ -1526 +1545 @@
++      <note default-x="66.06" default-y="-45.00">
+@@ -1545 +1564 @@
++          <wedge type="stop" number="1"/>
+@@ -1552 +1571 @@
++      <note default-x="10.00" default-y="-133.87">
+@@ -1566 +1585 @@
++      <note default-x="34.73" default-y="-148.87">
+@@ -1577 +1596 @@
++      <note default-x="66.06" default-y="-168.87">
+@@ -1589,20 +1608,20 @@
++    <measure number="13" width="110.41">
++      <direction placement="above">
++        <direction-type>
++          <words>cresc.</words>
++          </direction-type>
++        <direction-type>
++          <dashes type="start" number="1"/>
++          </direction-type>
++        <staff>1</staff>
++        </direction>
++      <direction placement="above">
++        <direction-type>
++          <words>cresc.</words>
++          </direction-type>
++        <direction-type>
++          <dashes type="start" number="1"/>
++          </direction-type>
++        <staff>1</staff>
++        </direction>
++      <note default-x="10.00" default-y="-35.00">
+@@ -1624 +1643 @@
++      <note default-x="36.31" default-y="-20.00">
+@@ -1643 +1662 @@
++      <note default-x="52.76" default-y="-25.00">
+@@ -1661 +1680 @@
++      <note default-x="69.20" default-y="-10.00">
+@@ -1680 +1699 @@
++      <note default-x="85.65" default-y="-15.00">
+@@ -1699 +1718 @@
++      <direction placement="above">
+@@ -1705,3 +1724,3 @@
++      <direction placement="above">
++        <direction-type>
++          <dashes type="stop" number="1"/>
+@@ -1714 +1733 @@
++      <note default-x="10.00" default-y="-133.87">
+@@ -1728 +1747 @@
++      <note default-x="36.31" default-y="-138.87">
+@@ -1739 +1758 @@
++      <note default-x="69.20" default-y="-143.87">
+@@ -1752,2 +1771,2 @@
++    <measure number="14" width="134.84">
++      <note default-x="11.75" default-y="-10.00">
+@@ -1772 +1791 @@
++      <note default-x="22.72" default-y="-5.00">
+@@ -1788 +1807 @@
++      <note default-x="34.43" default-y="0.00">
+@@ -1805 +1824 @@
++      <note default-x="60.74" default-y="-5.00">
+@@ -1817 +1836 @@
++      <note default-x="77.19" default-y="-10.00">
+@@ -1835 +1854 @@
++      <note default-x="93.63" default-y="-15.00">
+@@ -1847 +1866 @@
++      <note default-x="110.08" default-y="-20.00">
+@@ -1867 +1886 @@
++          <wedge type="stop" number="1"/>
+@@ -1874 +1893 @@
++      <note default-x="34.07" default-y="-148.87">
+@@ -1888 +1907 @@
++      <note default-x="93.63" default-y="-128.87">
+@@ -1903,2 +1922,2 @@
++    <measure number="15" width="110.41">
++      <note default-x="10.00" default-y="-25.00">
+@@ -1921 +1940 @@
++      <note default-x="28.00" default-y="-20.00">
+@@ -1935 +1954 @@
++      <note default-x="43.66" default-y="-15.00">
+@@ -1948 +1967 @@
++      <note default-x="59.33" default-y="-35.00">
+@@ -1968 +1987 @@
++      <note default-x="84.07" default-y="-40.00">
+@@ -1990 +2009 @@
++      <note default-x="10.00" default-y="-123.87">
+@@ -2001 +2020 @@
++      <note default-x="59.33" default-y="-148.87">
+@@ -2015 +2034 @@
++      <note default-x="84.07" default-y="-138.87">
+@@ -2027,4 +2046,4 @@
++    <measure number="16" width="76.53">
++      <direction placement="above">
++        <direction-type>
++          <rehearsal default-x="-12.14" default-y="23.89" relative-y="30.00" font-weight="bold" font-size="14">*</rehearsal>
+@@ -2040 +2059 @@
++      <note default-x="11.78" default-y="-35.00">
+@@ -2066 +2085 @@
++      <note default-x="12.14" default-y="-123.87">
+@@ -2077 +2096 @@
++      <note default-x="31.95" default-y="-138.87">
+@@ -2088 +2107 @@
++      <note default-x="51.76" default-y="-158.87">
+@@ -2101 +2120 @@
++          <pedal type="stop" line="yes"/>
+@@ -2106 +2125 @@
++    <measure number="17" width="118.58">
+@@ -2109 +2128 @@
++          <rehearsal default-x="-13.80" default-y="14.65" relative-y="30.00" font-weight="bold" font-size="14">B </rehearsal>
+@@ -2122 +2141 @@
++      <note default-x="13.80" default-y="10.00">
+@@ -2131,3 +2150,4 @@
++        <notehead color="#FF0000">normal</notehead>
++        <staff>1</staff>
++        <notations>
++          <slur color="#FF0000" type="start" placement="above" number="1"/>
+@@ -2139 +2159 @@
++      <note default-x="40.71" default-y="-35.00">
+@@ -2147,0 +2168 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -2157 +2178 @@
++      <note default-x="57.53" default-y="10.00">
+@@ -2165,0 +2187 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -2177 +2199 @@
++      <note default-x="77.00" default-y="5.00">
+@@ -2185,0 +2208 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -2194 +2217 @@
++      <note default-x="93.82" default-y="0.00">
+@@ -2202,0 +2226 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -2214 +2238 @@
++      <note default-x="13.80" default-y="-123.87">
+@@ -2223,3 +2247,4 @@
++        <notehead color="#FF0000">normal</notehead>
++        <staff>2</staff>
++        <notations>
++          <slur color="#FF0000" type="start" placement="above" number="1"/>
+@@ -2231 +2256 @@
++      <note default-x="40.71" default-y="-113.87">
+@@ -2239,0 +2265 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -2247 +2273 @@
++      <note default-x="77.00" default-y="-108.87">
+@@ -2256,0 +2283 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -2260 +2287 @@
++    <measure number="18" width="235.48">
+@@ -2264 +2291 @@
++            <left-margin>21.00</left-margin>
+@@ -2267 +2294 @@
++          <system-distance>150.00</system-distance>
+@@ -2270 +2297 @@
++          <staff-distance>82.16</staff-distance>
+@@ -2273 +2300 @@
++      <note default-x="84.27" default-y="-5.00">
+@@ -2292 +2319 @@
++      <note default-x="99.94" default-y="0.00">
+@@ -2305 +2332 @@
++      <note default-x="115.61" default-y="5.00">
+@@ -2317 +2344 @@
++      <note default-x="138.90" default-y="-15.00">
+@@ -2337 +2364 @@
++      <note default-x="84.27" default-y="-112.16">
+@@ -2352 +2379 @@
++      <note default-x="162.91" default-y="-127.16">
+@@ -2372 +2399 @@
++      <note default-x="186.57" default-y="-137.16">
+@@ -2392 +2419 @@
++      <note default-x="210.22" default-y="-147.16">
+@@ -2413,2 +2440,2 @@
++    <measure number="19" width="124.34">
++      <note default-x="10.00" default-y="0.00">
+@@ -2423,3 +2450,4 @@
++        <notehead color="#FF0000">normal</notehead>
++        <staff>1</staff>
++        <notations>
++          <slur color="#FF0000" type="start" placement="above" number="1"/>
+@@ -2431 +2459 @@
++      <note default-x="41.16" default-y="-45.00">
+@@ -2439,0 +2468 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -2449 +2478 @@
++      <note default-x="60.63" default-y="0.00">
+@@ -2457,0 +2487 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -2469 +2499 @@
++      <note default-x="80.10" default-y="-5.00">
+@@ -2477,0 +2508 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -2486 +2517 @@
++      <note default-x="99.58" default-y="-10.00">
+@@ -2494,0 +2526 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -2506 +2538 @@
++      <note default-x="10.00" default-y="-142.16">
+@@ -2515,3 +2547,4 @@
++        <notehead color="#FF0000">normal</notehead>
++        <staff>2</staff>
++        <notations>
++          <slur color="#FF0000" type="start" placement="above" number="1"/>
+@@ -2523 +2556 @@
++      <note default-x="41.16" default-y="-147.16">
+@@ -2532,3 +2565,4 @@
++        <notehead color="#FF0000">normal</notehead>
++        <staff>2</staff>
++        </note>
++      <note default-x="80.10" default-y="-152.16">
+@@ -2543,0 +2578 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -2547,2 +2582,2 @@
++    <measure number="20" width="186.52">
++      <note default-x="18.42" default-y="-15.00">
+@@ -2569 +2604 @@
++      <note default-x="34.54" default-y="-10.00">
+@@ -2582 +2617 @@
++      <note default-x="50.66" default-y="-5.00">
+@@ -2596,5 +2631,5 @@
++          <wedge type="diminuendo" number="1" default-y="-75.00"/>
++          </direction-type>
++        <staff>1</staff>
++        </direction>
++      <note default-x="81.38" default-y="-25.00">
+@@ -2623 +2658 @@
++      <note default-x="18.42" default-y="-157.16">
+@@ -2635 +2670 @@
++      <note default-x="50.66" default-y="-152.16">
+@@ -2648 +2683 @@
++      <note default-x="81.74" default-y="-147.16">
+@@ -2662 +2697 @@
++      <note default-x="107.53" default-y="-142.16">
+@@ -2674 +2709 @@
++      <note default-x="133.33" default-y="-137.16">
+@@ -2686 +2721 @@
++      <note default-x="159.12" default-y="-132.16">
+@@ -2704,2 +2739,2 @@
++    <measure number="21" width="173.14">
++      <note default-x="10.00" default-y="-25.00">
+@@ -2717 +2752 @@
++          <slur color="#FF0000" type="start" placement="above" number="2"/>
+@@ -2723 +2758 @@
++      <note default-x="37.02" default-y="-20.00">
+@@ -2736 +2771 @@
++      <note default-x="68.10" default-y="-15.00">
+@@ -2756 +2791 @@
++      <note default-x="93.96" default-y="-10.00">
+@@ -2773 +2808 @@
++      <note default-x="119.82" default-y="-5.00">
+@@ -2790 +2825 @@
++      <note default-x="145.68" default-y="0.00">
+@@ -2811,3 +2846,3 @@
++      <direction placement="below">
++        <direction-type>
++          <dynamics default-x="3.29" default-y="-40.00" relative-y="-40.00">
+@@ -2820 +2855 @@
++      <note default-x="10.00" default-y="-127.16">
+@@ -2836 +2871 @@
++      <note default-x="68.10" default-y="-137.16">
+@@ -2852 +2887 @@
++      <note default-x="119.82" default-y="-147.16">
+@@ -2871,2 +2906,2 @@
++    <measure number="22" width="190.75">
++      <note default-x="10.00" default-y="5.00">
+@@ -2880,0 +2916 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -2884 +2920 @@
++      <note default-x="39.28" default-y="-5.00">
+@@ -2893,4 +2929,5 @@
++        <notehead color="#FF0000">normal</notehead>
++        <staff>1</staff>
++        <beam number="1">continue</beam>
++        </note>
++      <note default-x="70.37" default-y="-15.00">
+@@ -2906,0 +2944 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -2916 +2954 @@
++      <note default-x="101.30" default-y="15.00">
+@@ -2926,0 +2965 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -2938 +2977 @@
++      <note default-x="130.58" default-y="10.00">
+@@ -2946,0 +2986 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -2958 +2998 @@
++      <note default-x="159.87" default-y="5.00">
+@@ -2966,0 +3007 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -2981 +3022 @@
++      <note default-x="10.00" default-y="-157.16">
+@@ -2989,0 +3031 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -2998 +3040 @@
++      <note default-x="70.37" default-y="-122.16">
+@@ -3007,3 +3049,4 @@
++        <notehead color="#FF0000">normal</notehead>
++        <staff>2</staff>
++        <notations>
++          <slur color="#FF0000" type="start" placement="above" number="1"/>
+@@ -3015 +3058 @@
++      <note default-x="130.58" default-y="-112.16">
+@@ -3025,0 +3069 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -3034 +3078,7 @@
++    <measure number="23" width="145.87">
++      <direction placement="above">
++        <direction-type>
++          <words default-y="8.93" relative-y="20.00" font-size="7">(1  3   2)</words>
++          </direction-type>
++        <staff>1</staff>
++        </direction>
+@@ -3037,11 +3087,5 @@
++          <wedge type="diminuendo" number="1" default-y="-75.00"/>
++          </direction-type>
++        <staff>1</staff>
++        </direction>
++      <note default-x="13.80" default-y="0.00">
+@@ -3055,0 +3100 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -3060 +3105 @@
++          <slur color="#FF0000" type="start" placement="above" number="2"/>
+@@ -3066 +3111 @@
++      <note default-x="30.11" default-y="-5.00">
+@@ -3074,0 +3120 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -3085 +3131 @@
++      <note default-x="46.42" default-y="-10.00">
+@@ -3093,0 +3140 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -3102 +3149 @@
++      <note default-x="72.51" default-y="-5.00">
+@@ -3111,3 +3158,4 @@
++        <notehead color="#FF0000">normal</notehead>
++        <staff>1</staff>
++        <notations>
++          <slur color="#FF0000" type="start" placement="above" number="2"/>
+@@ -3122 +3170 @@
++      <note default-x="108.39" default-y="-15.00">
+@@ -3132,0 +3181 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -3153 +3202 @@
++      <note default-x="13.80" default-y="-107.16">
+@@ -3161,0 +3211 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -3167 +3217 @@
++      <note default-x="72.51" default-y="-127.16">
+@@ -3176,3 +3226,4 @@
++        <notehead color="#FF0000">normal</notehead>
++        <staff>2</staff>
++        <notations>
++          <slur color="#FF0000" type="start" placement="above" number="1"/>
+@@ -3187 +3238 @@
++      <note default-x="108.39" default-y="-122.16">
+@@ -3195,0 +3247 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -3208 +3260 @@
++    <measure number="24" width="209.16">
+@@ -3212 +3264 @@
++            <left-margin>21.00</left-margin>
+@@ -3215 +3267 @@
++          <system-distance>150.00</system-distance>
+@@ -3218 +3270 @@
++          <staff-distance>81.60</staff-distance>
+@@ -3221,7 +3273,7 @@
++      <direction placement="above">
++        <direction-type>
++          <rehearsal default-x="-25.13" relative-y="30.00" font-weight="bold" font-size="14">**</rehearsal>
++          </direction-type>
++        <staff>1</staff>
++        </direction>
++      <note default-x="80.47" default-y="-10.00">
+@@ -3244,5 +3296,5 @@
++          <pedal type="start" line="yes" default-y="-84.58"/>
++          </direction-type>
++        <staff>2</staff>
++        </direction>
++      <note default-x="80.84" default-y="-141.60">
+@@ -3264 +3316 @@
++      <note default-x="116.85" default-y="-176.60">
+@@ -3276 +3328 @@
++          <slur color="#FF0000" type="start" placement="above" number="1"/>
+@@ -3282 +3334 @@
++      <note default-x="139.37" default-y="-156.60">
+@@ -3299 +3351 @@
++      <note default-x="161.88" default-y="-141.60">
+@@ -3316 +3368 @@
++      <note default-x="184.39" default-y="-136.60">
+@@ -3335 +3387 @@
++          <pedal type="stop" line="yes"/>
+@@ -3340 +3392 @@
++    <measure number="25" width="145.60">
+@@ -3343 +3395 @@
++          <dynamics default-x="3.29" default-y="-40.00" relative-y="-40.00">
+@@ -3352,5 +3404,5 @@
++          <rehearsal default-x="-13.80" default-y="14.65" relative-y="30.00" font-weight="bold" font-size="14">B'</rehearsal>
++          </direction-type>
++        <staff>1</staff>
++        </direction>
++      <note default-x="13.80" default-y="10.00">
+@@ -3365,3 +3417,4 @@
++        <notehead color="#FF0000">normal</notehead>
++        <staff>1</staff>
++        <notations>
++          <slur color="#FF0000" type="start" placement="above" number="2"/>
+@@ -3373 +3426 @@
++      <note default-x="51.00" default-y="-35.00">
+@@ -3381,0 +3435 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -3391 +3445 @@
++      <note default-x="74.25" default-y="10.00">
+@@ -3399,0 +3454 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -3411 +3466 @@
++      <note default-x="97.50" default-y="5.00">
+@@ -3419,0 +3475 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -3428 +3484 @@
++      <note default-x="120.75" default-y="0.00">
+@@ -3436,0 +3493 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -3448 +3505 @@
++      <note default-x="13.80" default-y="-131.60">
+@@ -3456,0 +3514 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -3460 +3518 @@
++          <slur color="#FF0000" type="start" placement="above" number="1"/>
+@@ -3466 +3524 @@
++      <note default-x="51.00" default-y="-121.60">
+@@ -3474,0 +3533 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -3482 +3541 @@
++      <note default-x="97.50" default-y="-116.60">
+@@ -3491,0 +3551 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -3495,2 +3555,2 @@
++    <measure number="26" width="178.09">
++      <note default-x="13.80" default-y="-5.00">
+@@ -3515 +3575 @@
++      <note default-x="30.07" default-y="0.00">
+@@ -3528 +3588 @@
++      <note default-x="46.34" default-y="5.00">
+@@ -3540 +3600 @@
++      <note default-x="72.01" default-y="-15.00">
+@@ -3560 +3620 @@
++      <note default-x="13.80" default-y="-111.60">
+@@ -3575 +3635 @@
++      <note default-x="98.40" default-y="-126.60">
+@@ -3595 +3655 @@
++      <note default-x="124.43" default-y="-136.60">
+@@ -3615 +3675 @@
++      <note default-x="150.46" default-y="-146.60">
+@@ -3636,2 +3696,2 @@
++    <measure number="27" width="137.43">
++      <note default-x="10.00" default-y="0.00">
+@@ -3646,3 +3706,4 @@
++        <notehead color="#FF0000">normal</notehead>
++        <staff>1</staff>
++        <notations>
++          <slur color="#FF0000" type="start" placement="above" number="1"/>
+@@ -3654 +3715 @@
++      <note default-x="45.71" default-y="-45.00">
+@@ -3662,0 +3724 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -3672 +3734 @@
++      <note default-x="68.03" default-y="0.00">
+@@ -3680,0 +3743 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -3692 +3755 @@
++      <note default-x="90.34" default-y="-5.00">
+@@ -3700,0 +3764 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -3709 +3773 @@
++      <note default-x="112.66" default-y="-10.00">
+@@ -3717,0 +3782 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -3729 +3794 @@
++      <note default-x="10.00" default-y="-141.60">
+@@ -3738,3 +3803,4 @@
++        <notehead color="#FF0000">normal</notehead>
++        <staff>2</staff>
++        <notations>
++          <slur color="#FF0000" type="start" placement="above" number="1"/>
+@@ -3746 +3812 @@
++      <note default-x="45.71" default-y="-146.60">
+@@ -3755,3 +3821,4 @@
++        <notehead color="#FF0000">normal</notehead>
++        <staff>2</staff>
++        </note>
++      <note default-x="90.34" default-y="-151.60">
+@@ -3766,0 +3834 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -3770,2 +3838,2 @@
++    <measure number="28" width="199.60">
++      <note default-x="18.42" default-y="-15.00">
+@@ -3792 +3860 @@
++      <note default-x="36.09" default-y="-10.00">
+@@ -3805 +3873 @@
++      <note default-x="53.77" default-y="-5.00">
+@@ -3823 +3891 @@
++      <note default-x="84.49" default-y="-25.00">
+@@ -3846 +3914 @@
++      <note default-x="18.42" default-y="-156.60">
+@@ -3858 +3926 @@
++      <note default-x="53.77" default-y="-151.60">
+@@ -3871 +3939 @@
++      <note default-x="84.86" default-y="-146.60">
+@@ -3885 +3953 @@
++      <note default-x="113.14" default-y="-141.60">
+@@ -3897 +3965 @@
++      <note default-x="141.43" default-y="-136.60">
+@@ -3909 +3977 @@
++      <note default-x="169.71" default-y="-131.60">
+@@ -3927 +3995 @@
++    <measure number="29" width="186.23">
+@@ -3937 +4005 @@
++      <note default-x="10.00" default-y="-25.00">
+@@ -3949 +4017 @@
++          <slur color="#FF0000" type="start" placement="above" number="2"/>
+@@ -3955 +4023 @@
++      <note default-x="38.71" default-y="-20.00">
+@@ -3968 +4036 @@
++      <note default-x="69.79" default-y="-15.00">
+@@ -3988 +4056 @@
++      <note default-x="98.50" default-y="-10.00">
+@@ -4005 +4073 @@
++      <note default-x="127.21" default-y="-5.00">
+@@ -4022 +4090 @@
++      <note default-x="155.92" default-y="0.00">
+@@ -4036 +4104 @@
++          <wedge type="stop" number="1"/>
+@@ -4043 +4111 @@
++      <note default-x="10.00" default-y="-126.60">
+@@ -4059 +4127 @@
++      <note default-x="69.79" default-y="-136.60">
+@@ -4075 +4143 @@
++      <note default-x="127.21" default-y="-146.60">
+@@ -4094,2 +4162,14 @@
++    <measure number="30" width="443.99">
++      <print new-page="yes">
++        <system-layout>
++          <system-margins>
++            <left-margin>21.00</left-margin>
++            <right-margin>0.00</right-margin>
++            </system-margins>
++          <top-system-distance>81.06</top-system-distance>
++          </system-layout>
++        <staff-layout number="2">
++          <staff-distance>75.74</staff-distance>
++          </staff-layout>
++        </print>
++      <note default-x="80.47" default-y="5.00">
+@@ -4103,0 +4184 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -4107 +4188 @@
++      <note default-x="140.79" default-y="-5.00">
+@@ -4116,4 +4197,5 @@
++        <notehead color="#FF0000">normal</notehead>
++        <staff>1</staff>
++        <beam number="1">continue</beam>
++        </note>
++      <note default-x="201.11" default-y="-15.00">
+@@ -4129,0 +4212 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -4139 +4222 @@
++      <note default-x="261.43" default-y="15.00">
+@@ -4150,4 +4233,5 @@
++        <notehead color="#FF0000">normal</notehead>
++        <staff>1</staff>
++        <beam number="1">continue</beam>
++        <notations>
++          <slur color="#FF0000" type="start" placement="above" number="2"/>
+@@ -4162 +4246 @@
++      <note default-x="321.75" default-y="10.00">
+@@ -4170,0 +4255 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -4183 +4268 @@
++      <note default-x="382.07" default-y="5.00">
+@@ -4191,0 +4277 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -4206 +4292 @@
++      <note default-x="80.47" default-y="-150.74">
+@@ -4214,0 +4301 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -4223 +4310 @@
++      <note default-x="201.11" default-y="-115.74">
+@@ -4232,3 +4319,4 @@
++        <notehead color="#FF0000">normal</notehead>
++        <staff>2</staff>
++        <notations>
++          <slur color="#FF0000" type="start" placement="above" number="1"/>
+@@ -4240 +4328 @@
++      <note default-x="321.75" default-y="-105.74">
+@@ -4250,0 +4339 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -4259,13 +4348,7 @@
++    <measure number="31" width="328.63">
++      <direction placement="above">
++        <direction-type>
++          <words default-y="11.91" relative-y="20.00" font-size="7">(1  3   2)</words>
++          </direction-type>
++        <staff>1</staff>
++        </direction>
+@@ -4274,11 +4357,5 @@
++          <wedge type="diminuendo" number="1" default-y="-75.00"/>
++          </direction-type>
++        <staff>1</staff>
++        </direction>
++      <note default-x="13.80" default-y="0.00">
+@@ -4292,0 +4370 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -4297 +4375 @@
++          <slur color="#FF0000" type="start" placement="above" number="2"/>
+@@ -4303 +4381 @@
++      <note default-x="52.95" default-y="-5.00">
+@@ -4311,0 +4390 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -4321 +4400 @@
++      <note default-x="92.11" default-y="-10.00">
+@@ -4329,0 +4409 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -4339 +4419 @@
++      <note default-x="154.76" default-y="-5.00">
+@@ -4348,4 +4428,5 @@
++        <notehead color="#FF0000">normal</notehead>
++        <staff>1</staff>
++        <notations>
++          <slur color="#FF0000" type="start" placement="above" number="2"/>
++          <slur color="#FF0000" type="start" placement="above" number="3"/>
+@@ -4360 +4441 @@
++      <note default-x="240.89" default-y="-15.00">
+@@ -4370,0 +4452 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -4385 +4467 @@
++          <wedge type="stop" number="1"/>
+@@ -4392 +4474 @@
++      <note default-x="13.80" default-y="-100.74">
+@@ -4400,0 +4483 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -4406 +4489 @@
++      <note default-x="154.76" default-y="-120.74">
+@@ -4415,3 +4498,4 @@
++        <notehead color="#FF0000">normal</notehead>
++        <staff>2</staff>
++        <notations>
++          <slur color="#FF0000" type="start" placement="above" number="1"/>
+@@ -4426 +4510 @@
++      <note default-x="240.89" default-y="-115.74">
+@@ -4434,0 +4519 @@
++        <notehead color="#FF0000">normal</notehead>
+@@ -4447,4 +4532,4 @@
++    <measure number="32" width="283.47">
++      <direction placement="above">
++        <direction-type>
++          <rehearsal default-x="-12.50" default-y="23.89" relative-y="30.00" font-weight="bold" font-size="14">**</rehearsal>
+@@ -4460 +4545 @@
++      <note default-x="12.14" default-y="-10.00">
+@@ -4475 +4560 @@
++      <note default-x="12.50" default-y="-135.74">
+@@ -4494 +4579 @@
++      <note default-x="99.29" default-y="-150.74">
+@@ -4514 +4599 @@
++      <note default-x="186.08" default-y="-170.74">

@@ -167,6 +167,9 @@ def main() -> None:
             L(f"  ERROR: {msg}")
             step_errors.append(msg)
             print_progress(1, 1, "ERROR — file not found")
+            print(f"\n  scores.zip not found. Download it from:\n"
+                  f"  https://doi.org/10.5281/zenodo.8037327\n"
+                  f"  and place it at: {SCORES_ZIP}")
         elif not os.path.isfile(SCORES_ZIP_CS):
             msg = f"Checksum file not found: {SCORES_ZIP_CS}"
             L(f"  ERROR: {msg}")

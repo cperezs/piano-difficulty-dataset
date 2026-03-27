@@ -27,6 +27,7 @@ REPO_DIR      = os.path.dirname(SCRIPTS_DIR)
 CIPI_DIR      = os.path.join(REPO_DIR, "CIPI")
 CHECKSUMS_CSV = os.path.join(REPO_DIR, "metadata", "checksums.csv")
 PATCHES_DIR   = os.path.join(REPO_DIR, "patches")
+DATASET_DIR   = os.path.join(REPO_DIR, "difficulty_dataset")
 LOGS_DIR      = os.path.join(REPO_DIR, "logs")
 
 # ── helpers ───────────────────────────────────────────────────────────────────
@@ -234,7 +235,7 @@ def main() -> None:
         for i, row in enumerate(rows):
             dataset_rel   = row["dataset_file"].strip()
             expected_hash = row["dataset_sha256"].strip()
-            dataset_abs   = os.path.join(REPO_DIR, dataset_rel)
+            dataset_abs   = os.path.join(DATASET_DIR, dataset_rel)
             print_progress(i, total)
 
             if not os.path.isfile(dataset_abs):
@@ -268,7 +269,7 @@ def main() -> None:
             cipi_rel    = row["cipi_file"].strip()
             dataset_rel = row["dataset_file"].strip()
             cipi_abs    = os.path.join(CIPI_DIR, cipi_rel)
-            dataset_abs = os.path.join(REPO_DIR, dataset_rel)
+            dataset_abs = os.path.join(DATASET_DIR, dataset_rel)
             patch_abs   = os.path.join(PATCHES_DIR, patch_name_for(dataset_rel))
 
             print_progress(i, total)
@@ -297,7 +298,7 @@ def main() -> None:
             cipi_rel    = row["cipi_file"].strip()
             dataset_rel = row["dataset_file"].strip()
             cipi_abs    = os.path.join(CIPI_DIR, cipi_rel)
-            dataset_abs = os.path.join(REPO_DIR, dataset_rel)
+            dataset_abs = os.path.join(DATASET_DIR, dataset_rel)
             patch_abs   = os.path.join(PATCHES_DIR, patch_name_for(dataset_rel))
 
             print_progress(i, total)
